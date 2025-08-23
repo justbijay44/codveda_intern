@@ -1,0 +1,11 @@
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+nltk
+imbalanced-learn
+tensorflow
+streamlit
