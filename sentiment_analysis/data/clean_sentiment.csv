@@ -1,0 +1,733 @@
+,Sentiment,Timestamp,Platform,Hashtags,Retweets,Likes,Country,Text
+0,Positive,2023-01-15 12:30:00,twitter,"nature,park",15,30,usa,enjoy beauti day park
+1,Negative,2023-01-15 08:45:00,twitter,"traffic,morning",5,10,canada,traffic terribl morn
+2,Positive,2023-01-15 15:45:00,instagram,"fitness,workout",20,40,usa,finish amaz workout
+3,Positive,2023-01-15 18:20:00,facebook,"travel,adventure",8,15,uk,excit upcom weekend getaway
+4,Neutral,2023-01-15 19:55:00,instagram,"cooking,food",12,25,australia,tri new recip dinner tonight
+5,Positive,2023-01-16 09:10:00,twitter,"gratitude,positivevibes",25,50,india,feel grate littl thing life
+6,Positive,2023-01-16 14:45:00,facebook,"rainydays,cozy",10,20,canada,raini day call cozi blanket hot cocoa
+7,Positive,2023-01-16 19:30:00,instagram,"movienight,mustwatch",15,30,usa,new movi releas mustwatch
+8,Negative,2023-01-17 08:00:00,twitter,"politics,debate",30,60,usa,polit discuss heat timelin
+9,Neutral,2023-01-17 12:20:00,facebook,"summer,beachdays",18,35,australia,miss summer vibe beach day
+10,Positive,2023-01-17 15:15:00,instagram,"blogging,newpost",22,45,usa,publish new blog post check
+11,Negative,2023-01-18 10:30:00,twitter,"sickday,health",7,15,canada,feel bit weather today
+12,Positive,2023-01-18 14:50:00,facebook,"cityexplore,hiddengems",12,25,uk,explor citi hidden gem
+13,Positive,2023-01-18 18:00:00,instagram,"newyear,fitnessgoals",28,55,usa,new year new fit goal
+14,Neutral,2023-01-19 09:45:00,twitter,"tech,innovation",15,30,india,technolog chang way live
+15,Positive,2023-01-19 13:20:00,facebook,"reflection,future",20,40,usa,reflect past look ahead
+16,Positive,2023-01-19 17:10:00,instagram,"petadoption,furryfriend",15,30,canada,adopt cute furri friend
+17,Positive,2023-01-20 00:05:00,twitter,"gaming,latenight",18,35,uk,latenight game session friend
+18,Neutral,2023-01-20 11:30:00,facebook,"ai,techconference",25,50,usa,attend virtual confer ai
+19,Negative,2023-01-20 15:15:00,instagram,"winterblues,mood",8,15,usa,winter blue got feel low
+20,Positive,2023-01-21 08:40:00,twitter,"reading,coffeetime",22,45,india,sip coffe enjoy good book
+21,Positive,2023-01-21 13:20:00,facebook,"vr,virtualreality",15,30,usa,explor world virtual realiti
+22,Positive,2023-01-21 16:45:00,instagram,"productivity,workfromhome",30,60,usa,product day tick todo list
+23,Positive,2023-01-22 09:15:00,twitter,"fitness,challengeaccepted",20,40,uk,finish challeng workout routin
+24,Positive,2023-01-22 14:30:00,facebook,"career,milestone",12,25,canada,celebr mileston work
+25,Positive,2023-01-22 12:00:00,instagram,"brunch,friends",15,30,uk,sunday brunch friend
+26,Positive,2023-01-23 16:20:00,facebook,"languagelearning,personalgrowth",25,50,india,learn new languag person growth
+27,Positive,2023-01-23 19:45:00,instagram,"reading,quiettime",15,30,australia,quiet even good book
+28,Positive,2023-01-24 11:30:00,twitter,"mentalhealth,selfcare",22,45,usa,reflect import mental health
+29,Positive,2023-01-24 15:00:00,facebook,"art,paintinginprogress",12,25,canada,new paint progress
+30,Positive,2023-01-24 17:30:00,instagram,"roadtrip,scenicviews",18,35,uk,weekend road trip explor scenic view
+31,Positive,2023-01-25 18:00:00,twitter,"teatime,sunset",15,30,india,enjoy cup tea watch sunset
+32,Positive,2023-01-25 13:15:00,facebook,"coding,enthusiasm",30,60,usa,code new project enthusiasm
+33,Positive,2023-01-26 09:45:00,instagram,"inspiration,workshop",25,50,usa,feel inspir attend workshop
+34,Positive,2023-01-26 14:20:00,twitter,"wintersports,fun",15,30,canada,winter sport day local park
+35,Positive,2023-01-26 17:40:00,facebook,"familytime,weekend",22,45,uk,qualiti time famili weekend
+36,Positive,2023-01-27 20:00:00,instagram,"music,concertnight",18,35,usa,attend live music concert tonight
+37,Positive,2023-01-27 12:30:00,twitter,"mindfulness,meditation",15,30,india,practic mind medit
+38,Positive,2023-01-27 16:10:00,facebook,"dessert,cooking",12,25,canada,tri new dessert recip
+39,Positive,2023-01-28 09:00:00,instagram,"gaming,tournament",30,60,usa,excit upcom game tournament
+40,Positive,2023-01-28 14:45:00,twitter,"gardening,spring",25,50,usa,plan garden makeov spring
+41,Positive,2023-01-28 19:30:00,facebook,"birthday,celebration",15,30,uk,celebr friend birthday tonight
+42,Positive,2023-01-29 17:00:00,instagram,"accomplished,success",22,45,india,feel accomplish product day
+43,Positive,2023-01-29 20:20:00,twitter,"cozynight,movietime",18,35,canada,cozi even good movi
+44,Positive,2023-01-30 11:30:00,facebook,"art,galleryexplore",15,30,usa,explor local art galleri weekend
+45,Positive,2023-01-30 15:45:00,instagram,"bookrelease,favoriteauthor",12,25,uk,new book releas favorit author
+46,Positive,2023-01-30 18:30:00,twitter,"vrmeetup,virtualreality",28,55,india,attend virtual realiti meetup
+47,Positive,2023-01-31 10:45:00,facebook,"nature,reflection",15,30,australia,reflect beauti natur
+48,Positive,2023-01-31 19:00:00,instagram,"cooking,specialdinner",20,40,usa,cook special dinner love one
+49,Positive,2023-01-31 16:20:00,twitter,"optimism,newweek",15,30,canada,feel optimist week ahead
+50,Positive,2023-02-01 08:00:00,facebook,"fitnesschallenge,newbeginnings",22,45,uk,start new fit challeng tomorrow
+51,Positive,2023-02-01 13:30:00,instagram,"bikeride,scenictrails",18,35,usa,sunday bike ride scenic trail
+52,Negative,2023-02-11 09:30:00,twitter,"injustice,angry",20,40,canada,cant believ injustic happen societi
+53,Negative,2023-02-11 21:15:00,instagram,"fear,thrillermovie",15,30,usa,feel sens fear watch thriller movi
+54,Negative,2023-02-12 14:45:00,facebook,"sadness,naturaldisaster",25,50,india,heartbroken hear news natur disast
+55,Negative,2023-02-12 18:20:00,twitter,"disgust,environment",18,35,uk,state world environ disgust
+56,Positive,2023-02-13 10:00:00,instagram,"happiness,celebration",30,60,usa,pure happi celebr love one achiev
+57,Positive,2023-02-13 19:30:00,facebook,"joy,comedyshow",22,45,canada,laughter best medicineenjoy comedi show
+58,Very Positive,2023-02-14 08:30:00,twitter,"love,spreadlove",15,30,australia,share love posit vibe everyon
+59,Positive,2023-02-14 14:20:00,instagram,"amusement,funtimes",18,35,uk,amus incid brighten day
+60,Very Positive,2023-02-14 19:45:00,facebook,"enjoyment,booktime",25,50,canada,enjoy quiet even book tea
+61,Positive,2023-02-15 11:30:00,twitter,"admiration,nature",20,40,usa,admir beauti natur peac hike
+62,Positive,2023-02-15 16:00:00,instagram,"affection,positivevibes",15,30,usa,send affection vibe follow
+63,Positive,2023-02-15 20:30:00,facebook,"awe,breathtaking",22,45,australia,experienc awe breathtak sunset
+64,Negative,2023-02-16 09:00:00,twitter,"disappointed,badservice",18,35,india,disappoint servic local restaur
+65,Neutral,2023-02-16 14:45:00,instagram,"surprise,gift",25,50,usa,surpris gift friend made day
+66,Neutral,2023-02-16 18:20:00,facebook,"acceptance,challenges",15,30,canada,find accept midst life challeng
+67,Very Positive,2023-02-17 10:45:00,twitter,"adoration,petlove",22,45,uk,overflow ador ador pet
+68,Positive,2023-02-17 07:30:00,instagram,"anticipation,adventure",20,40,usa,anticip thrill adventur come week
+69,Negative,2023-02-17 15:00:00,facebook,"bitterlesson,growth",18,35,usa,bitter experi turn valuabl lesson
+70,Positive,2023-02-18 09:30:00,twitter,"calmness,peacefulmind",15,30,india,find calm midst busi day
+71,Neutral,2023-02-18 14:20:00,instagram,"confusion,decisionmaking",25,50,uk,confus cloud mind navig decis
+72,Positive,2023-02-18 18:45:00,facebook,"excitement,travelplans",22,45,canada,excit build upcom vacat
+73,Positive,2023-02-19 11:30:00,twitter,"kindness,humanity",20,40,usa,kind wit today restor faith human
+74,Positive,2023-02-19 16:00:00,instagram,"pride,milestone",30,60,australia,pride achiev person mileston
+75,Negative,2023-02-19 19:45:00,facebook,"shame,injustice",15,30,india,moment shame stand injustic
+76,Negative,2023-02-20 09:30:00,twitter,"anger,argument",20,40,canada,fume anger heat argument
+77,Negative,2023-02-20 21:15:00,instagram,"fear,unknown",15,30,usa,fear unknown keep night
+78,Negative,2023-02-21 14:45:00,facebook,"sadness,farewell",25,50,india,heartfelt sad bid farewel dear friend
+79,Negative,2023-02-21 18:20:00,twitter,"disgust,corruption",18,35,uk,state corrupt societi utterli disgust
+80,Positive,2023-02-22 10:00:00,instagram,"happiness,newfamilymember",30,60,uk,overflow happi welcom new famili member
+81,Positive,2023-02-22 19:30:00,facebook,"joy,standupcomedy",22,45,canada,laughter key joyattend standup comedi show
+82,Very Positive,2023-02-23 08:30:00,twitter,"love,spreadlove",15,30,australia,send love follow beauti day
+83,Positive,2023-02-23 14:20:00,instagram,"amusement,petantics",18,35,uk,amus antic petit pure amus
+84,Very Positive,2023-02-23 19:45:00,facebook,"enjoyment,travel",25,50,usa,enjoy everi moment trippur enjoy
+85,Positive,2023-02-24 11:30:00,twitter,"admiration,volunteers",20,40,usa,admir dedic volunt local chariti
+86,Positive,2023-02-24 16:00:00,instagram,"affection,familylove",15,30,usa,send affection vibe friend famili
+87,Positive,2023-02-24 20:30:00,facebook,"awe,starrynight",22,45,australia,awestruck beauti night sky
+88,Negative,2023-02-25 09:00:00,twitter,"disappointed,project",18,35,india,disappoint lack progress person project
+89,Neutral,2023-02-25 14:45:00,instagram,"surprise,oldfriends",25,50,usa,surpris visit old friend brought tear joy
+90,Neutral,2023-02-25 18:20:00,facebook,"acceptance,lifejourney",15,30,canada,embrac accept life up down
+91,Very Positive,2023-02-26 10:45:00,twitter,"adoration,puppylove",22,45,uk,overflow ador cute rescu puppi
+92,Positive,2023-02-26 07:30:00,instagram,"anticipation,movierelease",20,40,australia,anticip releas muchawait movi
+93,Negative,2023-02-26 15:00:00,facebook,"bitterexperience,customerservice",18,35,usa,bitter experi custom servic depart
+94,Positive,2023-02-27 09:30:00,twitter,"calmness,innerpeace",15,30,india,find calm amidst chao daili life
+95,Neutral,2023-02-27 14:20:00,instagram,"confusion,makingsense",25,50,uk,confus reign tri make sens recent event
+96,Positive,2023-02-27 18:45:00,facebook,"excitement,surpriseparty",22,45,canada,excit build surpris birthday parti
+97,Positive,2023-02-28 11:30:00,twitter,"kindness,actsofkindness",20,40,usa,wit act kind made day
+98,Positive,2023-02-28 16:00:00,instagram,"pride,fitnesschallengecompleted",30,60,uk,pride complet challeng fit challeng
+99,Negative,2023-02-28 19:45:00,facebook,"shame,injustice",15,30,india,moment shame speak injustic
+100,Neutral,2023-03-01 10:45:00,twitter,"acceptance,diversity",22,45,australia,reflect beauti divers world
+101,Positive,2023-03-01 13:30:00,instagram,"excitement,booktime",18,35,usa,excit quiet even good book
+102,Negative,2023-03-01 17:45:00,twitter,"bitter,unfairness",15,30,canada,feel bitter unfair workplac
+103,Positive,2023-03-02 18:00:00,facebook,"calmness,mindfulness",15,30,uk,calm prevail practic mind
+104,Neutral,2023-03-02 13:15:00,instagram,"confusion,lifechoices",30,60,usa,confus surround navig life choic
+105,Positive,2023-03-02 16:45:00,twitter,"excitement,weekendadventure",25,50,india,excit weekend road trip explor new place
+106,Positive,2023-03-03 11:30:00,facebook,"kindness,humanityrestored",22,45,usa,kind wit today restor faith human
+107,Positive,2023-03-03 14:30:00,instagram,"pride,accomplishments",12,25,canada,pride accomplish person profession goal
+108,Negative,2023-03-03 12:00:00,twitter,"shame,integrity",15,30,uk,shame true valu difficult situat
+109,Very Positive,2010-05-15 15:30:00,twitter,"elation,memories",20,40,canada,revisit old memori feel sens elat
+110,Very Positive,2021-08-10 21:15:00,instagram,"euphoria,victory",15,30,usa,victori team brought euphoria citi
+111,Positive,2011-06-20 14:45:00,facebook,"contentment,nature",25,50,india,embrac beauti natur moment content
+112,Positive,2022-02-12 18:20:00,twitter,"serenity,meditation",18,35,uk,medit seren lake find inner peac
+113,Positive,2012-11-25 10:00:00,instagram,"gratitude,blessed",30,60,australia,overflow gratitud life bless
+114,Positive,2013-04-05 19:30:00,facebook,"hope,optimism",22,45,usa,hope brighter tomorrow despit challeng
+115,Positive,2014-09-14 08:30:00,twitter,"empowerment,community",15,30,uk,empow make differ commun
+116,Positive,2015-07-18 14:20:00,instagram,"compassion,charityevent",18,35,canada,compass action support local chariti event
+117,Positive,2016-02-23 19:45:00,facebook,"tenderness,familytime",25,50,uk,moment tender connect love one
+118,Positive,2017-10-30 11:30:00,twitter,"arousal,excitement",20,40,australia,arous excit await special announc
+119,Positive,2018-06-15 16:00:00,instagram,"enthusiasm,newproject",15,30,usa,enthusiast dive new project
+120,Positive,2019-03-28 18:20:00,facebook,"fulfillment,milestone",22,45,india,feel sens fulfil reach mileston
+121,Positive,2019-11-11 15:00:00,twitter,"reverence,history",18,35,uk,rever beauti histor landmark
+122,Very Positive,2020-04-02 09:30:00,instagram,"elation,oldfriends",25,50,canada,elat surpris reunion old friend
+123,Very Positive,2021-06-19 14:45:00,facebook,"euphoria,livemusic",15,30,usa,euphoria live music concert star
+124,Positive,2010-08-15 10:00:00,twitter,"contentment,sundaymood",30,60,australia,content simplic quiet sunday
+125,Positive,2011-09-22 19:30:00,instagram,"serenity,booktime",22,45,uk,seren found page favorit book
+126,Positive,2012-03-10 08:30:00,facebook,"gratitude,supportive",15,30,india,gratitud support receiv tough time
+127,Positive,2013-12-05 16:00:00,twitter,"hope,newbeginnings",18,35,canada,hope possibl new journey
+128,Positive,2014-07-20 11:30:00,instagram,"empowerment,personalgrowth",25,50,usa,empower learn person growth
+129,Positive,2015-12-22 14:20:00,facebook,"compassion,holidaysupport",18,35,usa,compass toward need holiday
+130,Positive,2016-02-10 19:45:00,twitter,"tenderness,cozyevening",25,50,uk,tender warmth cozi winter even
+131,Positive,2017-04-30 11:30:00,instagram,"arousal,adventuretime",20,40,australia,arous excit upcom adventur
+132,Positive,2018-09-15 16:00:00,facebook,"enthusiasm,creativity",15,30,canada,enthusiasm creativ project make
+133,Positive,2019-06-28 18:20:00,twitter,"fulfillment,fitnessgoals",22,45,india,fulfil complet challeng workout routin
+134,Positive,2020-11-11 15:00:00,instagram,"reverence,artappreciation",18,35,uk,rever artistri display museum
+135,Very Positive,2021-03-02 09:30:00,facebook,"elation,personalachievement",25,50,usa,elat achiev person goal
+136,Very Positive,2012-02-18 14:30:00,twitter,"elation,hiddengem",20,40,usa,elat discov hidden gem citi
+137,Very Positive,2018-11-05 21:45:00,instagram,"euphoria,birthdaysurprise",15,30,uk,euphoria surpris birthday celebr
+138,Positive,2015-09-12 13:20:00,facebook,"contentment,homecooking",25,50,india,content simplic homecook meal
+139,Positive,2016-07-30 18:10:00,twitter,"serenity,peacefulmelody",18,35,canada,seren found melodi peac piano
+140,Positive,2013-04-20 10:30:00,instagram,"gratitude,communitysupport",30,60,usa,gratitud support commun around
+141,Positive,2017-12-08 19:15:00,facebook,"hope,businessventure",22,45,canada,hope prospect new busi ventur
+142,Positive,2014-06-03 08:20:00,twitter,"empowerment,mentorship",15,30,uk,empower mentor guid other
+143,Positive,2019-01-15 14:50:00,instagram,"compassion,communitykindness",18,35,australia,compass shown act kind commun
+144,Positive,2016-12-25 19:30:00,facebook,"tenderness,lovenote",25,50,uk,tender heartfelt messag love one
+145,Positive,2018-03-10 09:45:00,twitter,"arousal,traveladventure",20,40,india,arous excit muchawait trip
+146,Positive,2020-09-17 16:30:00,instagram,"enthusiasm,artisticproject",15,30,usa,enthusiasm new artist project work
+147,Positive,2011-08-28 18:45:00,facebook,"fulfillment,helpingothers",22,45,canada,feel sens fulfil help other
+148,Positive,2017-11-01 15:30:00,twitter,"reverence,historicalsite",18,35,australia,rever histor signific landmark
+149,Very Positive,2019-06-15 10:00:00,instagram,"elation,fitnessmilestone",25,50,uk,elat achiev fit mileston
+150,Very Positive,2022-04-03 11:45:00,facebook,"euphoria,productlaunchsuccess",15,30,usa,euphoria success product launch
+151,Positive,2010-11-12 20:20:00,twitter,"contentment,love",30,60,india,content embrac love one
+152,Positive,2011-07-22 18:30:00,instagram,"serenity,sunsetviews",22,45,canada,seren found beauti sunset sea
+153,Positive,2012-03-30 11:20:00,facebook,"gratitude,smalljoys",15,30,australia,gratitud small joy day bring
+154,Positive,2013-10-05 16:40:00,twitter,"hope,personaldevelopment",18,35,uk,hope potenti person growth
+155,Positive,2014-07-10 13:15:00,instagram,"empowerment,skillbuilding",25,50,india,empower learn new skill
+156,Positive,2015-12-18 14:20:00,facebook,"compassion,volunteerwork",18,35,usa,compass volunt local chariti
+157,Positive,2016-02-10 19:45:00,twitter,"tenderness,petlove",25,50,canada,tender quiet moment share pet
+158,Positive,2017-09-25 11:30:00,instagram,"arousal,festivalexcitement",20,40,uk,arous excit upcom festiv
+159,Positive,2018-04-15 16:00:00,facebook,"enthusiasm,homeimprovement",15,30,australia,enthusiasm diy home improv project
+160,Positive,2019-11-28 18:20:00,twitter,"fulfillment,puzzlechallenge",22,45,india,fulfil complet challeng puzzl
+161,Positive,2020-05-11 15:00:00,instagram,"reverence,natureexploration",18,35,usa,rever wonder natur hike trail
+162,Very Positive,2021-02-05 09:30:00,facebook,"elation,friendshipreunion",25,50,canada,elat surpris reunion childhood friend
+163,Very Negative,2021-03-10 08:30:00,twitter,"despair,struggle",5,10,usa,suffer despair anoth setback
+164,Very Negative,2022-07-05 15:45:00,instagram,"grief,loss",8,15,canada,overwhelm grief miss love one dearli
+165,Negative,2019-11-18 21:20:00,facebook,"loneliness,isolation",10,20,uk,loneli creep night grow colder
+166,Very Negative,2020-08-12 11:30:00,twitter,"jealousy,envy",12,25,india,jealousi consum wit other success
+167,Negative,2018-05-22 14:45:00,instagram,"resentment,bitterness",7,15,australia,resent build past betray
+168,Negative,2017-01-30 16:10:00,facebook,"frustration,obstacles",10,20,usa,frustrat mount obstacl block path
+169,Negative,2016-09-28 19:45:00,twitter,"boredom,lackofinterest",8,15,canada,boredom set day feel endlessli dull
+170,Negative,2019-04-15 09:00:00,instagram,"anxiety,worry",12,25,uk,anxieti grip heart worri cloud thought
+171,Negative,2021-12-03 18:30:00,facebook,"intimidation,fear",15,30,india,intimid unknown futur ahead
+172,Negative,2020-06-20 14:20:00,twitter,"helplessness,overwhelmed",8,15,australia,helpless sink challeng pile
+173,Negative,2018-11-07 11:30:00,instagram,"envy,desire",10,20,canada,envi eat away see other prosper
+174,Negative,2017-08-25 16:00:00,facebook,"regret,missedchances",12,25,uk,regret miss opportun haunt thought
+175,Negative,2019-02-11 09:45:00,twitter,"disgust,injustice",7,15,india,disgust sight injustic cruelti
+176,Very Negative,2016-04-02 20:20:00,instagram,"despair,hopeless",10,20,usa,drown despair hope slip finger
+177,Very Negative,2015-10-18 15:30:00,facebook,"grief,tears",12,25,canada,grief weigh heavi tear constant companion
+178,Negative,2019-07-12 18:10:00,twitter,"loneliness,seekingconnection",15,30,uk,loneli crowd room silent cri connect
+179,Very Negative,2018-06-03 16:30:00,instagram,"jealousy,insecurity",8,15,india,jealousi gnaw confid toxic emot
+180,Negative,2022-01-15 12:00:00,facebook,"resentment,brokentrust",10,20,australia,resent fester poison relationship
+181,Negative,2017-04-10 14:45:00,twitter,"frustration,emotionaloutburst",12,25,usa,frustrat boil volcan erupt emot
+182,Negative,2016-11-28 19:00:00,instagram,"boredom,monotony",7,15,canada,boredom settl like dust life feel mundan
+183,Negative,2018-09-05 09:30:00,facebook,"anxiety,restlessness",10,20,uk,anxieti grip chest relentless grip thought
+184,Negative,2021-10-22 18:30:00,twitter,"intimidation,facingfear",15,30,india,intimid challeng ahead fear take hold
+185,Negative,2019-05-08 14:20:00,instagram,"helplessness,struggling",8,15,australia,helpless engulf drown sea problem
+186,Negative,2017-03-20 11:30:00,facebook,"envy,success",10,20,canada,envi poison thought covet other success
+187,Negative,2018-12-15 16:00:00,twitter,"regret,pastchoices",12,25,usa,regret decis led pain present
+188,Negative,2016-07-01 09:45:00,instagram,"disgust,corruption",7,15,uk,disgust corrupt stain societi
+189,Very Negative,2020-08-20 20:20:00,facebook,"despair,darkdays",10,20,india,sink despair day darker last
+190,Very Negative,2021-02-25 15:30:00,twitter,"grief,emotionalstorm",12,25,canada,grief overwhelm storm emot within
+191,Negative,2019-09-12 18:10:00,instagram,"loneliness,yearningforconnection",15,30,australia,loneli echo empti space yearn connect
+192,Very Negative,2018-08-05 16:30:00,facebook,"jealousy,resentment",8,15,usa,jealousi poison thought resent brew within
+193,Negative,2017-01-12 12:00:00,twitter,"resentment,unforgiving",10,20,india,resent fester wound refus heal
+194,Negative,2022-04-05 14:45:00,instagram,"frustration,emotionaloutburst",12,25,uk,frustrat escal thunderstorm emot
+195,Negative,2021-10-02 19:00:00,facebook,"boredom,stagnation",7,15,canada,boredom linger stagnant pool indiffer
+196,Neutral,2023-04-15 10:15:00,twitter,"curiosity,learning",15,30,usa,embark journey discoveri fuel curios thirst knowledg
+197,Neutral,2022-11-28 17:30:00,instagram,"indifference,digitaloverload",7,15,canada,lost vast sea inform indiffer wave digit ocean
+198,Neutral,2020-04-02 09:45:00,facebook,"confusion,lifepuzzle",10,20,uk,complex puzzl life leav state perpetu confus seek answer chao
+199,Neutral,2021-08-10 14:00:00,twitter,"numbness,emotionalshield",8,15,india,numb settl shield overwhelm emot life throw way
+200,Negative,2019-06-18 20:45:00,instagram,"melancholy,sunsetmoments",12,25,australia,gaze sunset melanchol long moment slip finger time
+201,Neutral,2018-02-05 15:15:00,facebook,"nostalgia,memorylane",10,20,usa,revisit old photograph caught embrac nostalgia bittersweet symphoni
+202,Neutral,2022-05-30 11:30:00,twitter,"ambivalence,uncertainchoices",12,25,canada,torn conflict emot ambival paint decis shade uncertainti
+203,Neutral,2023-01-10 16:20:00,instagram,"acceptance,lifejourney",15,30,uk,embrac ebb flow life find accept danc exist
+204,Positive,2020-09-18 13:45:00,facebook,"determination,achievetheimpossible",10,20,india,face challeng headon determin fuel fire within achiev imposs
+205,Positive,2021-07-03 19:00:00,twitter,"serenity,natureretreat",12,25,australia,seren found still natur tranquil retreat chao modern world
+206,Neutral,2022-10-08 08:15:00,instagram,"curiosity,knowledgequest",20,40,usa,curios lead rabbit hole knowledg perpetu student life classroom
+207,Neutral,2023-03-22 16:30:00,facebook,"indifference,floatingthroughlife",10,20,canada,float day air indiffer detach mundan happen around
+208,Neutral,2021-05-15 11:45:00,twitter,"confusion,thoughtlabyrinth",15,30,uk,entangl web thought confus reign navig labyrinth idea
+209,Neutral,2019-12-28 14:30:00,instagram,"numbness,stoicfacade",8,15,australia,numb chao emot lock away stoic facad conceal inner turmoil
+210,Negative,2020-03-01 19:00:00,facebook,"melancholy,whispersinthebreeze",12,25,india,melancholi whisper breez silent convers echo forgotten dream
+211,Neutral,2018-07-10 15:45:00,twitter,"nostalgia,journalmoments",10,20,canada,stumbl upon old journal nostalgia flood wave carri moment long gone
+212,Neutral,2022-01-05 10:30:00,instagram,"ambivalence,conflictingfeelings",12,25,uk,tapestri conflict feel weav uncertainti caught thread ambival
+213,Neutral,2021-08-20 16:20:00,facebook,"acceptance,selflovejourney",15,30,australia,embrac flaw find accept imperfect journey toward selflov
+214,Positive,2019-11-03 13:45:00,twitter,"determination,dreamsintoreality",18,35,usa,determin burn like wildfir overcom obstacl turn dream realiti
+215,Positive,2020-04-12 19:30:00,instagram,"serenity,oceanretreat",25,50,canada,tranquil moment ocean seren wash peac retreat within wave embrac
+216,Neutral,2022-04-15 08:45:00,facebook,"curiosity,newhorizons",22,45,india,explor new horizon spark curios adventur vast landscap knowledg
+217,Neutral,2023-02-10 17:00:00,twitter,"indifference,driftingthroughlife",9,18,uk,drift day nonchal demeanor embrac art indiffer
+218,Neutral,2020-08-05 12:15:00,instagram,"confusion,perplexedmind",14,28,australia,wrestl thought perplex mind lost labyrinth life complex
+219,Neutral,2021-12-01 15:30:00,facebook,"numbness,emotionalshield",10,20,usa,immers state emot numb shield storm daili struggl
+220,Negative,2019-03-25 21:00:00,twitter,"melancholy,wistfulheart",13,26,canada,melanchol symphoni play background soundtrack wist heart
+221,Neutral,2017-06-18 14:45:00,instagram,"nostalgia,yearbookmemories",12,25,india,flip page old yearbook nostalgia paint smile tear face
+222,Neutral,2022-07-08 11:30:00,facebook,"ambivalence,shadesofuncertainty",15,30,australia,torn oppos emot ambival color decis shade uncertainti
+223,Neutral,2023-05-15 16:20:00,twitter,"acceptance,imperfectjourney",18,36,canada,embrac life imperfect find accept journey scar
+224,Positive,2021-09-10 14:45:00,instagram,"determination,unparalleledheights",20,40,uk,fieri determin burn within fuel vision reach unparallel height
+225,Positive,2020-02-28 18:30:00,facebook,"serenity,naturewhispers",25,50,usa,bask seren quiet forest whisper natur bring peac soul
+226,Neutral,2023-03-10 16:30:00,instagram,"indifference,silentobserver",9,18,india,indiffer nois world silent observ midst life cacophoni
+227,Neutral,2021-05-02 11:45:00,facebook,"confusion,thoughtlabyrinth",14,28,australia,navig labyrinth thought confus constant companion maze idea
+228,Neutral,2019-10-18 14:30:00,twitter,"numbness,stoicresilience",11,22,uk,impenetr numb shield emot storm fortress stoic resili
+229,Negative,2020-01-05 20:00:00,instagram,"melancholy,bittersweetmemories",13,26,usa,melancholi paint world hue nostalgia canva bittersweet memori
+230,Neutral,2018-08-10 15:45:00,facebook,"nostalgia,diaryjourney",12,25,canada,journey past flip page old diari nostalgia take lead
+231,Neutral,2022-01-15 10:30:00,twitter,"ambivalence,conflictingemotions",15,30,india,ambival cloud decis caught crossroad conflict emot
+232,Neutral,2021-07-20 16:20:00,instagram,"acceptance,beautifulchaos",18,36,australia,embrac imperfect find accept mosaic life beauti chao
+233,Positive,2019-12-03 13:45:00,facebook,"determination,extraordinarypath",20,40,usa,determin drive forc propel forward path extraordinari achiev
+234,Positive,2020-04-12 19:30:00,twitter,"serenity,raindropmelody",25,50,canada,seek seren melodi raindrop tranquil escap nois everyday life
+235,Neutral,2022-05-08 08:45:00,instagram,"curiosity,seekerofknowledge",22,45,uk,curios drive explor unknown seeker knowledg unchart territori
+236,Neutral,2023-02-22 17:00:00,facebook,"indifference,driftingthroughlife",9,18,india,drift day air nonchal indiffer trivial life
+237,Neutral,2020-06-05 12:15:00,twitter,"confusion,labyrinthofthoughts",14,28,australia,lost labyrinth thought confus cast shadow quest clariti
+238,Neutral,2021-11-30 15:30:00,instagram,"numbness,emotionalstorms",10,20,canada,wrap cloak emot numb shield storm life turbul
+239,Negative,2019-02-25 21:00:00,facebook,"melancholy,wistfulyearning",13,26,uk,melancholi companion paint canva life brushstrok wist yearn
+240,Neutral,2017-05-18 14:45:00,twitter,"nostalgia,photoalbumstories",12,25,usa,leaf page old photo album nostalgia weav tale laughter tear
+241,Neutral,2022-08-05 11:30:00,instagram,"ambivalence,crossroadsconfusion",15,30,canada,ambival air caught crossroad conflict emot decis
+242,Neutral,2023-06-15 16:20:00,facebook,"acceptance,unpredictableart",18,36,australia,embrac beauti imperfect find accept mosaic life unpredict art
+243,Positive,2021-10-10 14:45:00,twitter,"determination,sculptingdreams",20,40,uk,determin ablaz forg path challeng sculpt dream tangibl realiti
+244,Positive,2020-05-12 19:30:00,instagram,"serenity,moonlitpeace",25,50,usa,immers seren moonlit night quiet whisper natur bring peac soul
+245,Neutral,2022-12-01 09:15:00,facebook,"curiosity,fearlessexplorer",22,44,india,fuel curios ventur unchart realm fearless explor mysteri world
+246,Neutral,2021-11-30 15:30:00,instagram,"numbness,emotionalstorms",10,20,canada,wrap cloak emot numb shield storm life turbul
+247,Very Positive,2018-07-12 17:45:00,twitter,"zest,carefreespirit",15,30,usa,danc life exuber carefre spirit embrac joy zest everi turn
+248,Positive,2020-09-05 20:10:00,facebook,"contentment,goldenglow",18,36,australia,bask golden glow content seren river flow landscap heart
+249,Positive,2022-04-18 08:00:00,instagram,"hopeful,canvasofdreams",12,24,india,gaze toward horizon hope eye paint canva dream illumin sun optim
+250,Positive,2019-12-10 12:20:00,twitter,"proud,branchesofachievement",25,50,canada,stand tall proud oak branch achiev reach toward sky accomplish
+251,Positive,2023-02-28 09:45:00,facebook,"grateful,blossomingconnection",20,40,usa,heart overflow gratitud garden appreci bloom soil kind connect
+252,Neutral,2018-04-03 14:15:00,instagram,"empathetic,tapestryofunderstanding",15,30,uk,extend hand empathet thread weav tapestri understand embrac joy sorrow other
+253,Positive,2022-06-20 10:30:00,twitter,"compassionate,showerofempathy",18,36,australia,compassion cloud heavi care shower empathi parch ground human suffer
+254,Neutral,2020-07-08 18:00:00,facebook,"playful,danceintherain",22,44,canada,play danc rain laughter whimsic spirit twirl puddl joy lighthearted
+255,Positive,2021-08-15 11:10:00,instagram,"freespirit,paintingthesky",20,40,india,soar wing free spirit unburden chain conform paint sky independ
+256,Positive,2019-10-25 16:50:00,twitter,"inspired,creativephoenix",15,30,uk,bath glow inspir creativ phoenix rise ash ordinari thought explor new realm
+257,Positive,2023-10-05 07:30:00,facebook,"hopeful,sunriseofpossibilities",12,24,usa,navig sea hope sail toward sunris possibl confid ship posit anticip
+258,Positive,2022-02-15 13:15:00,instagram,"confident,footprintsofassuredness",25,50,australia,stride confid footprint selfassured imprint sand challeng conquer victori claim
+259,Positive,2021-05-08 22:00:00,twitter,"serenity,moonlitserenade",13,26,canada,lost symphoni night moonlit serenad whisper tale wanderlust moonlit dream
+260,Neutral,2020-11-29 14:45:00,instagram,"curiosity,labyrinthofquestions",17,34,usa,unveil layer curios labyrinth question lead treasur trove undiscov knowledg
+261,Neutral,2019-09-14 10:20:00,facebook,"ambivalence,autumnwaltz",14,28,uk,embrac autumn breez leav ambival danc waltz choic uncertainti
+262,Positive,2022-03-12 19:55:00,twitter,"grateful,guidingstar",19,38,australia,gratitud guid star navig constel bless vast univers life preciou moment
+263,Very Positive,2023-03-30 16:30:00,instagram,"zest,fieldsofenthusiasm",16,32,india,zest heart sprint field enthusiasm chase sunbeam laughter meadow joy
+264,Positive,2021-07-01 12:10:00,facebook,"compassionate,tearsofempathy",21,42,canada,compassion rain tear empathi fall gentli nurtur seed kind garden human connect
+265,Positive,2020-01-05 08:45:00,twitter,"proud,scalingpeaks",23,46,usa,proudli scale peak achiev mountain conquer challeng plant flag success
+266,Positive,2022-07-17 06:15:00,instagram,"hopeful,seedsofoptimism",14,28,uk,embrac hope dawn garden sow seed optim tend bloom brighter tomorrow
+267,Neutral,2018-08-22 17:20:00,facebook,"playful,carnivalescapade",24,48,australia,play escapad carniv life carousel laughter cotton candi dream swirl joyou atmospher
+268,Positive,2021-12-08 14:30:00,twitter,"inspired,cloudsofcreativity",18,36,india,float cloud inspir artist paint sky stroke creativ creat masterpiec dream
+269,Positive,2019-04-27 09:50:00,instagram,"contentment,tranquilwaters",20,40,canada,navig river content seren boat cruis tranquil water inner peac accept
+270,Neutral,2023-09-03 21:40:00,facebook,"empathetic,lanternofcompassion",16,32,usa,empathi lantern wander dark alley sorrow illumin path compass care
+271,Positive,2020-06-10 10:05:00,twitter,"freespirit,wingsofdreams",22,44,uk,free spirit soar wing dream leav trail independ azur sky boundless possibl
+272,Positive,2022-04-01 18:30:00,instagram,"grateful,goldenhues",19,38,australia,bath golden hue grate sunset appreci cast warm glow landscap heart
+273,Positive,2021-01-15 13:00:00,facebook,"confident,danceoflife",23,46,canada,confid stride danc life ballroom selfassured lead twirl challeng grace
+274,Positive,2023-05-06 07:20:00,twitter,"hopeful,brightertomorrows",15,30,india,hope whisper wind carri promis brighter tomorrow symphoni optim air possibl
+275,Neutral,2019-11-18 15:15:00,instagram,"playful,jugglingresponsibilities",25,50,usa,play juggl respons circu perform balanc act work joy toss laughter air
+276,Positive,2020-08-29 20:45:00,facebook,"inspired,talestothestars",14,28,uk,whisper tale inspir star storytel craft constel thread imagin
+277,Positive,2022-10-30 11:40:00,twitter,"hopeful,sailorofdreams",17,34,australia,chart cours wave hope anticip sailor steer toward shore dream yet unexplor
+278,Positive,2021-07-01 12:10:00,instagram,"compassionate,tearsofempathy",21,42,canada,compassion rain tear empathi fall gentli nurtur seed kind garden human connect
+279,Positive,2020-01-05 08:45:00,twitter,"proud,scalingpeaks",23,46,usa,proudli scale peak achiev mountain conquer challeng plant flag success
+280,Positive,2022-07-17 06:15:00,instagram,"hopeful,seedsofoptimism",14,28,uk,embrac hope dawn garden sow seed optim tend bloom brighter tomorrow
+281,Neutral,2018-08-22 17:20:00,facebook,"playful,carnivalescapade",24,48,australia,play escapad carniv life carousel laughter cotton candi dream swirl joyou atmospher
+282,Positive,2021-12-08 14:30:00,twitter,"inspired,cloudsofcreativity",18,36,india,float cloud inspir artist paint sky stroke creativ creat masterpiec dream
+283,Positive,2019-04-27 09:50:00,instagram,"contentment,tranquilwaters",20,40,canada,navig river content seren boat cruis tranquil water inner peac accept
+284,Neutral,2023-09-03 21:40:00,facebook,"empathetic,lanternofcompassion",16,32,usa,empathi lantern wander dark alley sorrow illumin path compass care
+285,Positive,2020-06-10 10:05:00,twitter,"freespirit,wingsofdreams",22,44,uk,free spirit soar wing dream leav trail independ azur sky boundless possibl
+286,Positive,2022-04-01 18:30:00,instagram,"grateful,goldenhues",19,38,australia,bath golden hue grate sunset appreci cast warm glow landscap heart
+287,Positive,2021-01-15 13:00:00,facebook,"confident,danceoflife",23,46,canada,confid stride danc life ballroom selfassured lead twirl challeng grace
+288,Positive,2023-05-06 07:20:00,twitter,"hopeful,brightertomorrows",15,30,india,hope whisper wind carri promis brighter tomorrow symphoni optim air possibl
+289,Neutral,2019-11-18 15:15:00,instagram,"playful,jugglingresponsibilities",25,50,usa,play juggl respons circu perform balanc act work joy toss laughter air
+290,Positive,2020-08-29 20:45:00,facebook,"inspired,talestothestars",14,28,uk,whisper tale inspir star storytel craft constel thread imagin
+291,Positive,2022-10-30 11:40:00,twitter,"hopeful,sailorofdreams",17,34,australia,chart cours wave hope anticip sailor steer toward shore dream yet unexplor
+292,Positive,2021-07-01 12:10:00,instagram,"compassionate,tearsofempathy",21,42,canada,compassion rain tear empathi fall gentli nurtur seed kind garden human connect
+293,Positive,2020-01-05 08:45:00,twitter,"proud,scalingpeaks",23,46,usa,proudli scale peak achiev mountain conquer challeng plant flag success
+294,Positive,2022-07-17 06:15:00,instagram,"hopeful,seedsofoptimism",14,28,india,embrac hope dawn garden sow seed optim tend bloom brighter tomorrow
+295,Neutral,2018-08-22 17:20:00,facebook,"playful,carnivalescapade",24,48,australia,play escapad carniv life carousel laughter cotton candi dream swirl joyou atmospher
+296,Very Negative,2021-09-15 16:00:00,instagram,"despair,echoingsilence",8,16,canada,drown abyss despair heart shatter fragment lost echo silenc hopeless
+297,Negative,2019-03-08 14:20:00,facebook,"bitterness,resentmentweb",12,24,uk,bitter fester like venom vine entwin soul web resent poison garden peac
+298,Negative,2017-07-20 11:45:00,twitter,"loneliness,miragesofconnection",15,30,usa,wander desert loneli step heavi sigh mirag connect shimmer never materi
+299,Negative,2020-11-02 19:30:00,instagram,"yearning,distantwarmth",10,20,australia,yearn touch that echo distant warmth haunt heart cold embrac solitud
+300,Negative,2022-05-12 02:00:00,facebook,"fearful,imaginedhorrors",18,36,india,eye wide open night fear shadow danc wall mind prison imagin horror
+301,Negative,2023-04-08 13:15:00,twitter,"apprehensive,balancingact",14,28,uk,apprehens step tightrop uncertainti balanc act fall seem inevit anxieti constant companion
+302,Negative,2021-06-25 17:50:00,instagram,"overwhelmed,bouldersofexhaustion",22,44,canada,overwhelm weight world atla trembl shoulder respons boulder landscap exhaust
+303,Very Negative,2019-08-30 10:10:00,facebook,"jealous,greeneyedmonster",16,32,usa,jealousi greeney monster lurk shadow cast dark cloud sunshin other success
+304,Very Negative,2022-08-03 15:30:00,twitter,"devastated,windsofbrokenpromises",25,50,australia,devast storm betray wreckag trust scatter like debri heart torn wind broken promis
+305,Negative,2020-12-17 09:20:00,instagram,"frustrated,unsolvablepuzzle",12,24,india,frustrat finger tap keyboard symphoni annoy compos unsolv puzzl unmet expect
+306,Negative,2021-02-28 22:45:00,facebook,"envious,gildedprize",20,40,usa,enviou eye fixat gild prize heartach fuel pain desir possess seem forev reach
+307,Negative,2018-05-10 14:00:00,twitter,"dismissive,impenetrablewalls",14,28,uk,dismiss glanc fortress built indiffer wall impenetr plea understand recognit
+308,Negative,2022-01-07 11:10:00,instagram,"frustrated,mosaicofdisappointment",15,30,canada,shatter dream lie floor like fragment glass mosaic disappoint craft hand frustrat
+309,Negative,2019-09-19 03:30:00,facebook,"loneliness,solitarynocturne",18,36,australia,loneli silent companion night echo chamber solitud heart solitari nocturn
+310,Negative,2023-07-14 23:00:00,twitter,"fearful,specteroftheunknown",13,26,uk,fear whisper dark mind haunt specter unknown shadow danc rhythm anxieti tune
+311,Negative,2020-04-05 16:20:00,instagram,"bitterness,bitteraftertaste",10,20,india,bitter bitter aftertast linger tongu word remind wound refus heal pass time
+312,Negative,2021-11-29 08:45:00,facebook,"overwhelmed,drowningsoul",20,40,usa,overwhelm cacophoni expect drown soul tempest pressur struggl stay afloat
+313,Very Negative,2019-12-12 17:00:00,twitter,"jealous,heartofdiscontent",16,32,australia,jealousi venom seep vein poison heart turn breed ground discont
+314,Very Negative,2022-05-20 14:50:00,instagram,"devastated,shatteredtrust",25,50,canada,devast revel betray trust shatter like fragil glass leav shard pain wake
+315,Negative,2020-09-03 12:15:00,facebook,"frustrated,slippingthreads",14,28,uk,frustrat attempt mend broken connect thread understand slip finger like grain sand
+316,Negative,2021-02-10 19:30:00,twitter,"envious,bitterpill",20,40,usa,enviou gaze cast upon podium success bitter pill swallow tast linger constant remind unattain height
+317,Negative,2018-08-18 14:40:00,instagram,"dismissive,indifferenceperformance",12,24,australia,dismiss gestur curtain drawn shield vulner stage emot take backseat perform indiffer
+318,Very Negative,2022-02-28 21:00:00,facebook,"despair,labyrinthofhopelessness",8,16,canada,despair like heavi fog envelop everi thought blur path ahead journey labyrinth utter hopeless
+319,Negative,2019-10-15 10:30:00,twitter,"bitterness,iciclesofresentment",15,30,uk,bitter bitter chill air freez moment icicl resent dangl precari landscap memori
+320,Negative,2017-12-01 18:50:00,instagram,"loneliness,starlesssky",18,36,usa,loneli solitari moon starless sky cast cold glow landscap isol echo bounc empti space
+321,Negative,2020-04-18 16:15:00,facebook,"yearning,huesofsunset",10,20,australia,yearn warmth vanish sun heartach paint hue sunset never grace horizon
+322,Negative,2023-01-07 03:30:00,twitter,"fearful,lurkingmonsters",18,36,india,fear eye scan shadow prison night terror lurk monster born mind darkest corner
+323,Negative,2021-06-10 10:00:00,instagram,"apprehensive,stormofdoubt",14,28,canada,apprehens whisper wind forecast uncertainti mind weather vane spin wildli storm doubt
+324,Negative,2020-02-22 15:20:00,facebook,"overwhelmed,minotaurofpressure",22,44,usa,overwhelm maze expect minotaur pressur lurk labyrinth wait devour spirit resili
+325,Very Negative,2018-03-17 14:45:00,twitter,"jealous,bloomingachievements",16,32,uk,jealousi fester wound pain intensifi glanc garden other achiev bloom beyond fenc
+326,Very Negative,2022-10-28 11:15:00,instagram,"devastated,echoesofshattereddreams",25,50,australia,devast heart ruin echo shatter dream reverber chamber requiem whole
+327,Negative,2020-11-01 12:30:00,facebook,"frustrated,labyrinthofmiscommunication",14,28,india,frustrat attempt untangl knot confus thread understand slip labyrinth miscommun
+328,Negative,2021-01-15 22:10:00,twitter,"envious,desireforkeys",20,40,usa,enviou eye lock treasur chest opportun heartach fuel desir key seem forev elus
+329,Negative,2018-08-18 14:00:00,instagram,"dismissive,indifferenceperformance",12,24,australia,dismiss gestur curtain drawn shield vulner stage emot take backseat perform indiffer
+330,Negative,2022-01-07 11:10:00,twitter,"frustrated,mosaicofdisappointment",15,30,canada,shatter dream lie floor like fragment glass mosaic disappoint craft hand frustrat
+331,Negative,2019-09-19 03:30:00,facebook,"loneliness,solitarynocturne",18,36,australia,loneli silent companion night echo chamber solitud heart solitari nocturn
+332,Positive,2022-04-03 06:15:00,instagram,"awe,breathtakingsunrise",28,55,usa,awestruck breathtak sunris mountain
+333,Positive,2023-10-12 10:30:00,twitter,"determination,challenges",15,30,canada,navig challeng determin
+334,Neutral,2019-06-28 19:00:00,facebook,"nostalgia,oldmemories",22,45,uk,nostalgia hit flip old photo album
+335,Positive,2020-09-15 14:45:00,instagram,"thrill,culturalcelebration",40,80,india,thrill wit grandeur cultur festiv
+336,Positive,2017-11-08 21:20:00,twitter,"calmness,rainydays",18,35,australia,calm found rhythm raindrop windowpan
+337,Negative,2021-05-20 17:30:00,facebook,"overwhelmed,supportivecommunity",25,50,usa,overwhelm support receiv person challeng
+338,Positive,2023-01-10 12:00:00,instagram,"excitement,vacationcountdown",30,60,other,excit build countdown longawait vacat begin
+339,Positive,2018-12-05 08:45:00,twitter,"gratitude,lifelessons",35,70,other,reflect life journey grate lesson learn
+340,Very Negative,2020-03-15 18:30:00,instagram,"bittersweet,farewell",20,40,other,bittersweet emot aris bid farewel dear friend
+341,Neutral,2016-08-22 15:10:00,facebook,"curiosity,ancientdiscovery",18,35,other,curios spark explor mysteri ancient ruin
+342,Positive,2019-08-20 16:00:00,instagram,"admiration,handcraftedart",25,50,usa,admir intric detail handcraft masterpiec
+343,Very Positive,2021-12-08 19:30:00,twitter,"overjoyed,winterwarmth",18,35,canada,overjoy warmth cozi fireplac winter even
+344,Positive,2020-06-10 20:45:00,instagram,"inspiration,colorfulsunset",30,60,uk,inspir strike observ color vibrant sunset
+345,Positive,2022-02-28 07:15:00,facebook,"motivation,fitnessgoals",40,80,australia,motiv achiev fit goal invigor workout
+346,Positive,2017-04-15 08:00:00,twitter,"gratitude,morningcoffee",22,45,india,gratitud simpl joy found cup morn coffe
+347,Positive,2018-09-05 14:20:00,instagram,"empowerment,hikingadventure",35,70,usa,feel empow conquer challeng hike trail
+348,Positive,2022-10-22 12:45:00,facebook,"amusement,playfulkittens",15,30,canada,amus antic play kitten playtim
+349,Neutral,2016-07-02 23:30:00,twitter,"contemplation,starrynight",28,55,uk,contempl life mysteri starri night sky
+350,Positive,2020-11-18 17:10:00,instagram,"joyfulreunion,friendship",20,40,india,joy reunion longlost friend year separ
+351,Positive,2023-03-05 15:00:00,facebook,"excitement,surprisecelebration",30,60,australia,excit build prepar surpris celebr
+352,Positive,2015-12-01 11:30:00,twitter,"satisfaction,diyproject",25,50,usa,satisfact deriv success complet diy project
+353,Very Positive,2021-09-10 09:45:00,instagram,"blessed,supportivecommunity",18,35,uk,feel bless support commun time need
+354,Positive,2018-05-12 14:20:00,facebook,"serenity,tranquilgarden",22,45,canada,captiv seren tranquil garden full bloom
+355,Positive,2022-07-25 10:00:00,twitter,"anticipation,adventureawaits",40,80,india,anticip upcom adventur exot destin
+356,Neutral,2019-03-08 18:30:00,instagram,"reflection,personalgrowth",35,70,usa,reflect person growth achiev life experi
+357,Neutral,2017-01-28 21:15:00,facebook,"nostalgia,childhoodfavorites",20,40,australia,nostalg memori flood revisit childhood favorit
+358,Positive,2016-11-14 13:45:00,twitter,"appreciation,culturalexperience",28,55,uk,appreci vibrant cultur experienc travel
+359,Positive,2020-04-02 17:30:00,instagram,"confidence,overcominganxiety",15,30,usa,confid soar overcom public speak anxieti
+360,Positive,2023-01-15 19:00:00,facebook,"contentment,familylaughter",25,50,canada,content midst famili gather fill laughter
+361,Positive,2018-08-07 12:15:00,twitter,"enthusiasm,skillbuilding",30,60,india,enthusiasm learn new skill expand knowledg
+362,Neutral,2019-10-18 16:45:00,instagram,"surprise,hiddengem",18,35,uk,surpris delight discov hidden gem citi
+363,Positive,2022-06-30 07:00:00,facebook,"accomplishment,fitnesssuccess",22,45,australia,sens accomplish complet challeng workout
+364,Positive,2017-06-12 18:20:00,twitter,"wonderment,doublerainbow",35,70,usa,wonder beauti doubl rainbow rain
+365,Positive,2021-07-05 09:30:00,instagram,"optimism,brightfuture",20,40,canada,optim bright futur amidst challeng time
+366,Positive,2016-04-15 14:50:00,facebook,"pride,careermilestone",28,55,uk,pride achiev person mileston career progress
+367,Positive,2020-02-10 11:15:00,twitter,"happiness,sunnyday",15,30,india,happi bloom like flower garden sunni day
+368,Very Positive,2018-09-22 16:30:00,instagram,"elation,rarebookdiscovery",40,80,usa,elat discov rare book quaint bookstor
+369,Neutral,2015-11-08 10:00:00,facebook,"curiosity,ancientmysteries",18,35,australia,curios piqu mysteri ancient archaeolog site
+370,Neutral,2022-08-10 22:00:00,instagram,"enchantment,cosmicfireflies",25,50,other,mesmer cosmic danc firefli moonlit night
+371,Negative,2019-04-05 17:30:00,twitter,"intrigue,abstractart",18,35,other,intrigu symphoni color abstract art exhibit
+372,Positive,2020-12-15 15:45:00,facebook,"playfuljoy,childrensplaydate",22,45,other,giggl joy echo air children playdat
+373,Positive,2017-10-20 08:15:00,instagram,"mindfulness,laketranquility",35,70,canada,envelop seren practic mind lake
+374,Very Positive,2021-02-28 13:00:00,twitter,"dreamchaser,skyhighdreams",30,60,australia,chase dream like kite soar high vast open sky
+375,Positive,2018-06-12 20:30:00,facebook,"elegance,ballroomdance",28,55,uk,spellbound eleg ballroom danc crystal chandeli
+376,Positive,2016-03-08 14:20:00,instagram,"whimsy,magicalworld",20,40,usa,whimsic delight world fairi tale magic creatur
+377,Neutral,2023-04-18 17:10:00,twitter,"pensive,ancientcivilization",18,35,other,pensiv contempl amid ancient ruin forgotten civil
+378,Positive,2020-07-25 12:45:00,facebook,"thrill,rollercoasteradventure",22,45,other,embrac thrill speed rollercoast exhilar twist
+379,Positive,2019-11-30 19:30:00,instagram,"harmony,musicalunity",35,70,other,harmoni reson musician play melodi uniti togeth
+380,Positive,2015-09-01 16:00:00,twitter,"creativity,artistshaven",15,30,other,burst creativ quiet solitud artist studio
+381,Very Positive,2022-05-05 10:15:00,facebook,"radiance,springblooms",25,50,other,radiant joy akin bloom flower sunkiss spring morn
+382,Neutral,2018-07-08 23:00:00,instagram,"wonder,stargazingadventure",40,80,other,sens wonder vast cosmo stargaz night
+383,Very Positive,2021-09-20 14:30:00,twitter,"rejuvenation,seasideescape",18,35,other,rejuven salti breez sound wave seasid
+384,Positive,2016-11-15 11:45:00,facebook,"inspiration,forestwhispers",28,55,other,whisper inspir rustl leav seren forest
+385,Positive,2020-01-12 18:00:00,instagram,"coziness,warmwinterevening",30,60,other,savor warmth cup cocoa chilli winter even
+386,Positive,2017-12-28 19:15:00,facebook,"gratitude,familylaughter",22,45,other,heartfelt gratitud laughter share famili reunion
+387,Positive,2019-03-02 20:20:00,twitter,"adventure,culinaryjourney",35,70,other,embark culinari adventur savor exot flavor around world
+388,Very Positive,2022-06-08 15:30:00,instagram,"euphoria,puzzlecompletion",20,40,other,euphoria flood final puzzl piec click place
+389,Positive,2018-08-18 14:45:00,facebook,"awe,architecturalgrandeur",18,35,other,aweinspir grandeur ancient cathedr intric architectur
+390,Neutral,2022-08-10 22:00:00,instagram,"enchantment,fireflyfield",25,50,other,captiv ether beauti field fill firefli
+391,Positive,2019-04-05 17:30:00,twitter,"melodic,streetmusic",18,35,other,immers enchant melodi street musician violin
+392,Very Positive,2020-12-15 15:45:00,facebook,"festivejoy,summercarnival",22,45,other,joy laughter reson live summer carniv
+393,Positive,2017-10-20 08:15:00,instagram,"innerjourney,meditationbliss",35,70,canada,explor univers within mind medit session
+394,Positive,2021-02-28 13:00:00,twitter,"freedom,coastaladventure",30,60,australia,soar like free spirit wind coastal cliff
+395,Very Positive,2018-06-12 20:30:00,facebook,"dazzle,masqueradeelegance",28,55,uk,dazzl eleg masquerad ball dazzl costum
+396,Positive,2016-03-08 14:20:00,instagram,"whimsy,fairytalemagic",20,40,usa,whimsic delight world whimsic fairi tale
+397,Neutral,2023-04-18 17:10:00,twitter,"reflection,forgottenera",18,35,other,reflect contempl amid ruin forgotten era
+398,Very Positive,2020-07-25 12:45:00,facebook,"adrenaline,rollercoasterthrills",22,45,other,ride adrenalin rush rollercoast wild twist
+399,Positive,2019-11-30 19:30:00,instagram,"harmony,musicalunity",35,70,other,harmoni reson musician play symphoni uniti
+400,Positive,2015-09-01 16:00:00,twitter,"artisticburst,studiocreativity",15,30,other,burst artist creativ quietud artist studio
+401,Very Positive,2022-05-05 10:15:00,facebook,"radiance,springblooms",25,50,other,radiant joy akin blossom flower sunlit spring morn
+402,Neutral,2018-07-08 23:00:00,instagram,"wonder,stargazingadventure",40,80,other,aweinspir vast cosmo stargaz night
+403,Very Positive,2021-09-20 14:30:00,twitter,"rejuvenation,seasideescape",18,35,other,rejuven salti breez sound wave seasid
+404,Positive,2016-11-15 11:45:00,facebook,"inspiration,forestwhispers",28,55,other,whisper inspir rustl leav seren forest
+405,Positive,2020-01-12 18:00:00,instagram,"coziness,warmwinterevening",30,60,other,savor warmth cup cocoa chilli winter even
+406,Positive,2017-12-28 19:15:00,facebook,"gratitude,familylaughter",22,45,other,heartfelt gratitud laughter share famili reunion
+407,Positive,2019-03-02 20:20:00,twitter,"culinaryodyssey,flavorsaroundtheworld",35,70,other,embark culinari odyssey savor flavor around world
+408,Very Positive,2022-06-08 15:30:00,instagram,"euphoria,perfectpuzzle",20,40,other,euphoria flood final puzzl piec fit perfectli
+409,Positive,2018-08-18 14:45:00,facebook,"awe,architecturalgrandeur",18,35,other,awestruck grandeur ancient cathedr intric architectur
+410,Neutral,2015-11-08 10:00:00,instagram,"curiosity,ancientmysteries",18,35,australia,curios awaken mysteri ancient archaeolog site
+411,Positive,2020-12-02 17:30:00,twitter,"excitement,snowfallmagic",22,45,canada,giddi excit first snowflak danc sky
+412,Positive,2017-06-10 12:15:00,instagram,"contentment,freshbreadaroma",28,55,other,content envelop aroma freshli bake bread fill air
+413,Neutral,2021-04-15 14:20:00,facebook,"resilience,standingtall",35,70,usa,inspir resili lone tree stand tall storm
+414,Positive,2019-09-28 19:45:00,twitter,"immersion,captivatingnovel",20,40,uk,lost page captiv novel transport anoth world
+415,Neutral,2016-12-05 21:00:00,instagram,"nostalgia,familyphotoalbum",25,50,india,drench nostalgia flip old famili photo album
+416,Very Positive,2018-02-10 23:30:00,facebook,"spark,inspirationignited",30,60,australia,spark inspir ignit like shoot star night sky
+417,Positive,2023-02-15 08:30:00,twitter,"gratitude,warmtea",18,35,other,imbu gratitud simpl pleasur warm cup tea
+418,Very Positive,2015-08-22 15:00:00,instagram,"marvel,colorfulstreetmarket",22,45,other,marvel kaleidoscop color vibrant street market
+419,Positive,2020-11-20 18:45:00,facebook,"serenity,tranquilsunset",28,55,other,awash seren sun set tranquil lakesid retreat
+420,Very Negative,2019-08-05 21:00:00,instagram,"heartbreak,lostlove",15,30,usa,drown sorrow memori lost love resurfac
+421,Negative,2021-02-12 16:45:00,twitter,"loneliness,heavyheart",18,35,canada,numb set weight loneli grow heavier
+422,Very Negative,2020-11-28 14:20:00,facebook,"grief,lostfriendship",22,45,uk,tear fall like raindrop mourn end cherish friendship
+423,Very Negative,2016-05-15 22:30:00,instagram,"despair,endlessdarkness",28,55,australia,despair cloud mind feel adrift endless sea dark
+424,Very Negative,2018-09-10 13:15:00,twitter,"betrayal,shatteredtrust",22,45,other,shatter betray trust crumbl like fragil glass
+425,Very Negative,2022-03-20 19:30:00,facebook,"suffering,heartachesymphony",25,50,other,ach heart symphoni pain play silenc solitud
+426,Very Negative,2017-07-18 17:45:00,instagram,"emotionalstorm,sadnesswhirlwind",30,60,india,emot storm whirlwind sad engulf everi thought
+427,Negative,2018-12-15 10:00:00,twitter,"regret,hauntedpast",18,35,other,haunt regret ghost past linger relentlessli
+428,Very Negative,2015-06-28 21:15:00,facebook,"grief,tornapart",28,55,other,torn apart grief echo loss reverber soul
+429,Negative,2020-04-02 14:20:00,instagram,"isolation,emotionalwinter",35,70,other,isol deepen emot winter warmth distant memori
+430,Negative,2019-10-08 18:30:00,twitter,"disappointment,crushedhopes",20,40,other,soulcrush disappoint hope shatter like fragil glass
+431,Very Negative,2016-11-22 09:45:00,facebook,"lostlove,painfulechoes",22,45,other,pain echo love cherish lost abyss time
+432,Very Negative,2022-08-18 22:00:00,instagram,"despair,abyssofheartache",40,80,other,heartach deepen solitari journey abyss despair
+433,Negative,2017-03-12 23:30:00,twitter,"melancholy,quietserenade",18,35,uk,melancholi linger bittersweet serenad quietud solitud
+434,Negative,2015-12-15 16:15:00,facebook,"bitterness,woundedheart",25,50,australia,bitter like poison seep everi crevic wound heart
+435,Very Negative,2021-09-05 13:30:00,instagram,"exhaustion,crushedspirit",35,70,canada,emot exhaust weight world crush weari shoulder
+436,Very Negative,2018-05-22 20:45:00,twitter,"sorrow,symphonyofloss",18,35,other,sorrow echo symphoni pain play string loss
+437,Very Negative,2016-07-10 18:20:00,facebook,"darkness,soulengulfed",28,55,usa,dark descend engulf soul shadow despair
+438,Very Negative,2019-04-30 14:00:00,instagram,"desperation,glimmerofhope",22,45,other,desper whisper silent plea glimmer hope abyss
+439,Very Negative,2022-01-08 11:30:00,twitter,"ruins,shattereddreams",20,40,other,heart ruin remnant shatter dream scatter wind
+440,Very Negative,2017-09-10 19:15:00,twitter,"desolation,scatteredhope",20,40,australia,shatter echo shatter dream fragment hope scatter
+441,Negative,2022-04-18 11:30:00,instagram,"regret,pathofremorse",25,50,canada,avoid thorn regret walk barefoot path remors
+442,Very Negative,2018-12-05 21:45:00,facebook,"grief,lostjoyfootsteps",18,35,usa,labyrinth grief wall echo footstep lost joy
+443,Negative,2016-06-28 14:20:00,twitter,"loneliness,crashingwaves",22,45,uk,soul adrift sea solitud wave loneli crash relentlessli
+444,Negative,2019-10-22 17:00:00,instagram,"bitterness,stainedtrust",15,30,other,bitter betray tast linger stain palat trust
+445,Very Negative,2021-03-15 22:45:00,facebook,"desolation,whisperedloss",28,55,other,ruin hope echo shatter dream whisper tale loss
+446,Very Negative,2017-08-10 19:30:00,twitter,"heartbreak,rippleofdespair",22,45,other,sink like stone ocean heartbreak rippl sigh despair
+447,Very Negative,2023-01-28 14:30:00,instagram,"grief,silenttears",30,60,india,tear ink stain page journal testament silent grief
+448,Very Negative,2016-12-12 10:00:00,facebook,"betrayal,reverberatingpromises",25,50,other,wasteland lost trust echo broken promis reverber
+449,Neutral,2020-07-18 15:15:00,twitter,"resilience,tightropewalk",35,70,other,avoid shard shatter dream walk tightrop resili
+450,Negative,2022-05-20 20:30:00,instagram,"isolation,silentsolitude",30,60,other,suffoc silenc solitud echo laughter thrive
+451,Negative,2019-11-08 14:45:00,twitter,"regret,fadingpossibilities",18,35,other,haunt specter lost possibl ghost refus fade away
+452,Very Negative,2017-03-28 22:00:00,facebook,"despair,endlessreverberation",28,55,australia,labyrinth despair echo broken heart reverber endlessli
+453,Very Negative,2020-09-15 18:15:00,instagram,"sorrow,autumnleaves",22,45,canada,sink like autumn leav river sorrow carri away current
+454,Very Negative,2018-06-10 13:30:00,twitter,"desolation,shatteredhopes",20,40,uk,garden broken dream petal fall silent testimoni shatter hope
+455,Very Negative,2016-12-22 21:45:00,facebook,"grief,lostlovelonging",25,50,usa,tear currenc grief spent marketplac lost love long
+456,Very Negative,2021-01-05 16:20:00,instagram,"betrayal,closingwalls",15,30,other,wander maze betray wall close everi wrong turn
+457,Very Negative,2019-04-18 11:00:00,twitter,"heartbreak,calmafterstorm",22,45,other,soul weather storm heartbreak seek refug calm
+458,Very Negative,2017-08-28 19:30:00,facebook,"despair,unraveledhope",18,35,india,tapestri despair thread hope unravel leav portrait sorrow
+459,Very Negative,2023-02-10 14:30:00,instagram,"loss,silentsurrender",28,55,other,like wither rose garden love petal fall silent surrend time
+460,Very Negative,2022-07-10 22:15:00,instagram,"heartache,lovesonglonging",30,60,other,void heartach echo love song play note pang long
+461,Neutral,2019-05-15 21:30:00,twitter,"nostalgia,cherishedmemories",18,35,other,nostalgia bittersweet danc moonlit ballroom cherish memori
+462,Very Negative,2018-11-28 14:00:00,facebook,"grief,melancholicmelody",22,45,other,symphoni grief tear note compos melanchol melodi
+463,Very Negative,2021-03-02 17:45:00,instagram,"betrayal,poisonedtrust",25,50,canada,betray venom serpent slither garden trust poison root
+464,Very Negative,2016-10-18 19:30:00,twitter,"despair,deepdescent",20,40,usa,sink quicksand despair harder fight deeper descend
+465,Very Negative,2020-08-15 12:30:00,facebook,"desolation,untoldsorrows",28,55,other,wander cemeteri lost dream tombston mark untold sorrow
+466,Negative,2017-04-28 16:20:00,instagram,"regret,pastcurrents",18,35,uk,swept away river regret current past refus releas
+467,Very Negative,2019-09-10 21:00:00,twitter,"loss,forgottenlove",22,45,australia,whisper lost love linger attic heart forgotten eras
+468,Very Negative,2022-01-28 13:45:00,facebook,"betrayal,shatteredvows",15,30,other,galleri broken promis shatter vow frame pain exhibit
+469,Neutral,2016-06-15 22:30:00,instagram,"solitude,shadowconversation",30,60,other,echo solitud silent convers soul shadow
+470,Positive,2021-08-20 15:45:00,instagram,"joy,simplemoments",40,80,usa,danc sunshin step celebr joy found simpl moment
+471,Positive,2018-04-12 18:30:00,twitter,"happiness,spiritlifter",35,70,canada,laughter echo air choru happi lift spirit higher
+472,Positive,2022-02-15 12:20:00,facebook,"contentment,innerpeace",25,50,uk,garden content bloom whisper tale inner peac joy
+473,Positive,2019-10-28 14:15:00,instagram,"enthusiasm,hopefuljourney",30,60,australia,chase dream vibrant sky journey fuel hope enthusiasm
+474,Positive,2017-12-22 21:00:00,twitter,"gratitude,thankfulmelody",22,45,india,serenad star heart full gratitud melodi thank
+475,Positive,2020-06-10 17:30:00,facebook,"accomplishment,happinessmilestone",28,55,other,bask glow accomplish mileston step stone happi
+476,Positive,2016-09-18 19:45:00,instagram,"positivity,soulupliftment",18,35,other,danc posit everi step rhythm uplift soul harmoni
+477,Positive,2023-03-10 14:30:00,twitter,"joy,cherishedmoment",20,40,other,overflow joy cup laughter share friend moment cherish
+478,Positive,2019-05-05 12:15:00,facebook,"kindness,lovestitches",25,50,other,drape warmth kind quilt compass stitch love
+479,Positive,2018-08-28 16:00:00,instagram,"friendship,camaraderieblooms",30,60,other,garden friendship bloom testament beauti camaraderi
+480,Very Positive,2022-11-15 20:45:00,twitter,"love,rhythmofaffection",35,70,usa,embrac love heartbeat melodi danc rhythm affect
+481,Positive,2019-07-02 17:00:00,instagram,"joy,endlesssmiles",40,80,canada,surround color joy canva paint laughter endless smile
+482,Positive,2021-04-18 14:20:00,facebook,"excitement,ignitedsoul",30,60,uk,symphoni excit note burst energi ignit soul fervor
+483,Neutral,2023-02-05 19:30:00,twitter,"surprise,wonderfulmoment",25,50,australia,surpris gift wrap anticip unfold moment delight wonder
+484,Neutral,2018-09-22 12:45:00,instagram,"curiosity,treasuresofdiscovery",22,45,india,lost maze curios twist turn unveil treasur discoveri
+485,Positive,2016-12-10 21:15:00,facebook,"gratitude,showerofthankfulness",28,55,other,float cloud gratitud raindrop bless shower thank
+486,Positive,2020-05-28 16:00:00,twitter,"inspiration,brillianttrails",18,35,other,like comet inspir streak sky creativ leav trail brillianc
+487,Very Positive,2017-11-15 22:30:00,instagram,"success,nightskytriumph",22,45,other,celebr success firework accomplish light night sky triumph
+488,Positive,2021-08-02 19:00:00,facebook,"happiness,boundlesslaughter",30,60,other,symphoni laughter note key unlock door boundless happi
+489,Positive,2019-03-28 15:30:00,instagram,"thrill,wildheartride",35,70,other,carniv emot rollercoast thrill send heart wild ride
+490,Neutral,2018-05-12 17:30:00,twitter,"reflection,parisiandreams",28,55,other,stand grandeur eiffel tower moment reflect beauti parisian dream
+491,Neutral,2022-09-28 15:45:00,instagram,"enchantment,childhoodfantasies",30,60,usa,lost enchant disneyland ride journey realm childhood fantasi
+492,Positive,2019-11-10 14:00:00,facebook,"excitement,symphonyofspeed",22,45,other,explor wonder ferrari world roar engin creat symphoni speed
+493,Positive,2021-04-02 18:20:00,instagram,"joy,springtimecolors",35,70,other,amidst tulip field keukenhof tapestri color paint soul springtim joy
+494,Positive,2017-08-22 21:30:00,twitter,"exploration,japanesetraditions",18,35,other,wander histor street kyoto step journey heart japan tradit
+495,Positive,2020-06-15 16:45:00,instagram,"awe,earthsgrandeur",25,50,usa,embrac grand canyon natur masterpiec moment marvel earth grandeur
+496,Positive,2016-09-10 19:15:00,facebook,"serenity,sunsethues",22,45,other,journey seren santorini sunset paint sky hue tranquil
+497,Very Positive,2023-01-28 13:00:00,twitter,"amazement,ancienttales",30,60,other,amaz architectur marvel petra stone tell tale ancient civil
+498,Positive,2019-04-18 16:30:00,instagram,"romance,timelesscity",20,40,other,embark gondola ride venic canal reflect romanc timeless citi
+499,Positive,2017-11-05 22:00:00,facebook,"awe,ancientcivilizations",28,55,other,summit machu picchu breathtak panorama whisper secret ancient civil
+500,Positive,2022-07-20 21:45:00,instagram,"excitement,urbanenergy",35,70,usa,heart new york citi time squar dazzl light vibrant spectacl urban energi
+501,Positive,2018-03-15 17:30:00,twitter,"captivation,gladiatortales",25,50,other,captiv histor charm colosseum stone echo tale gladiat valor
+502,Positive,2019-10-28 14:15:00,facebook,"serenity,paradisewhispers",22,45,other,sail azur water maldiv wave whisper seren paradis
+503,Neutral,2021-06-10 16:00:00,instagram,"wonder,natureorchestra",30,60,other,midst amazon rainforest symphoni wildlif creat orchestra natur wonder
+504,Positive,2017-08-18 19:30:00,twitter,"awe,engineeringmarvels",18,35,other,walk great wall china step testament ancient engin marvel
+505,Positive,2020-04-15 05:30:00,facebook,"accomplishment,sunrisehues",28,55,other,summit mount fuji breathtak sunris paint sky hue accomplish
+506,Positive,2016-11-22 13:00:00,instagram,"exploration,khmerstories",20,40,other,explor ancient ruin angkor wat stone whisper stori khmer civil
+507,Positive,2019-01-10 14:45:00,twitter,"adventure,snowpeakdance",22,45,other,ski slope swiss alp turn danc majesti snowcap peak
+508,Positive,2023-02-28 16:20:00,facebook,"tranquility,zenwisdom",25,50,other,tranquil kyoto bamboo forest whisper ancient zen wisdom echo grove
+509,Very Positive,2018-05-28 18:30:00,instagram,"grandeur,icymasterpiece",22,45,other,cruis fjord norway ici landscap breathtak masterpiec natur grandeur
+510,Neutral,2022-09-15 20:00:00,instagram,"emotion,adeleconcert",40,80,usa,front row adel concert note someon like reson soulstir emot
+511,Positive,2019-07-28 21:30:00,twitter,"energy,beyonceconcert",35,70,usa,danc star beyonc live show feel power singl ladi everi move
+512,Neutral,2021-05-10 19:45:00,facebook,"enchantment,taylorswift",30,60,usa,crowd taylor swift concert lyric love stori creat enchant fairi tale
+513,Neutral,2018-12-02 22:15:00,instagram,"nostalgia,queentribute",22,45,uk,rock guitar solo queen tribut concert journey back time freddi spirit
+514,Positive,2020-08-18 19:00:00,twitter,"serenity,edsheeranconcert",18,35,uk,sway ed sheeran acoust melodi seren even fill perfect moment
+515,Positive,2017-03-28 20:30:00,facebook,"joy,brunomars",28,55,usa,immers pulsat beat bruno mar concert uptown funk becom citi joy
+516,Positive,2022-01-15 21:15:00,instagram,"celebration,mjtribute",25,50,usa,michael jackson tribut show moonwalk hit celebr king pop
+517,Neutral,2019-06-10 18:45:00,twitter,"charm,sinatratribute",22,45,usa,swing rhythm frank sinatra tribut feel timeless charm fli moon
+518,Very Positive,2023-03-20 22:30:00,facebook,"ecstasy,metallicaconcert",35,70,usa,mosh pit metallica concert thunder chord creat symphoni headbang ecstasi
+519,Positive,2016-11-28 19:00:00,instagram,"hope,coldplaymagic",30,60,uk,experienc magic coldplay concert fix becom beacon hope night
+520,Positive,2018-08-05 20:00:00,instagram,"enthusiasm,justinbieber",40,80,canada,justin bieber concert infecti beat babi creat danc floor unbridl enthusiasm
+521,Positive,2021-04-15 21:30:00,twitter,"creativity,ladygaga",35,70,usa,spotlight ladi gaga show costum chang metamorphosi creativ artistri
+522,Neutral,2019-11-28 19:45:00,facebook,"emotion,adelemelodies",30,60,uk,immers soul melodi adel tear flow freeli move emot hello
+523,Positive,2020-06-22 22:00:00,instagram,"colorful,katyperry",22,45,usa,drench confetti kati perri concert kaleidoscop color ignit night sky
+524,Positive,2017-09-10 20:15:00,twitter,"pride,jayzanthem",18,35,usa,audienc jayz perform lyric empir state mind becom anthem pride
+525,Positive,2022-02-28 21:15:00,facebook,"hypnotic,shakirarhythms",28,55,other,danc shakira rhythmic beat hip sway hypnot charm hip dont lie
+526,Very Positive,2016-05-15 19:30:00,instagram,"connection,u2anthem",25,50,other,u2 concert anthem chord without creat timeless moment connect
+527,Very Positive,2018-12-10 22:30:00,twitter,"iconic,gnrconcert",22,45,usa,rock gun n rose show icon riff sweet child mine echo night
+528,Very Positive,2023-01-22 20:00:00,facebook,"euphoria,arianagrande",35,70,usa,crowd ariana grand concert high note creat euphor symphoni
+529,Neutral,2020-03-05 18:45:00,instagram,"journey,bobmarleytribute",30,60,other,sway regga vibe bob marley tribut concert chord journey jamaica soul
+530,Positive,2018-10-12 20:00:00,twitter,"excitement,moviepremierethrills",40,80,usa,captiv spellbind plot twist audienc applaud experienc rollercoast emot movi premier
+531,Neutral,2019-06-25 22:15:00,instagram,"nostalgia,classicfilmmoments",35,70,uk,credit roll profound sens nostalgia wash reminisc cherish moment classic film
+532,Neutral,2020-07-08 19:30:00,facebook,"engagement,webseriesjourney",30,60,canada,stream latest web seri viewer engross charact journey feel sens connect empathi
+533,Positive,2017-09-18 21:45:00,twitter,"pride,indiefilmsuccess",22,45,australia,film festiv indi filmmak creation receiv stand ovat evok pride sens accomplish
+534,Positive,2021-01-15 18:00:00,instagram,"touched,familydramamoments",28,55,india,watch heartwarm famili drama tear flow freeli charact overcom challeng leav viewer warm glow
+535,Positive,2016-02-28 20:30:00,facebook,"gratitude,oscarwinningmoment",18,35,usa,oscar actor gracious accept award radiat joy gratitud recognit outstand perform
+536,Positive,2022-04-20 17:30:00,twitter,"inspiration,hiddengemdiscovery",22,45,other,discov hidden gem world documentari viewer enlighten inspir feel renew sens curios
+537,Neutral,2019-11-05 21:15:00,instagram,"contemplation,deepmeanings",28,55,other,movi credit roll viewer experi mix awe contempl ponder deeper mean woven storylin
+538,Neutral,2015-07-12 22:00:00,facebook,"suspense,crimeseriesthrills",35,70,other,bingewatch thrill crime seri suspens keep viewer edg seat creat rush adrenalin
+539,Positive,2020-09-10 19:45:00,twitter,"satisfaction,fulfillingending",22,45,other,close scene unfold sens satisfact wash complet cinemat journey profound fulfil end
+540,Positive,2018-07-15 21:30:00,instagram,"joy,worldcuptriumph",40,80,other,celebr histor victori world cup nation erupt joy unit triumph footbal team
+541,Positive,2020-08-08 19:45:00,twitter,"inspiration,olympicachievement",35,70,usa,olymp athlet persever shine earn gold medal inspir gener remark achiev
+542,Positive,2019-06-25 22:15:00,facebook,"excitement,cricketchampionship",30,60,india,cricket championship nailbit finish leav fan edg seat experienc rollercoast emot
+543,Positive,2021-11-07 17:30:00,instagram,"admiration,marathonrecords",22,45,other,wit recordbreak marathon spectat fill awe admir endur dedic runner
+544,Positive,2017-09-10 20:15:00,twitter,"captivation,tennisrivalry",28,55,uk,tenni grand slam fierc rivalri unfold captiv fan display skill sportsmanship world stage
+545,Very Positive,2022-06-20 21:00:00,facebook,"triumph,basketballfinals",18,35,usa,cheer underdog basketbal final crowd erupt applaus team defi odd claim championship titl
+546,Positive,2016-04-10 18:30:00,instagram,"awe,golfvictory",22,45,other,golf tournament golfer precis focu lead stun victori leav spectat awe except skill
+547,Positive,2019-11-24 19:45:00,twitter,"thrill,formula1championship",28,55,other,experienc thrill highspe formula 1 race fan edg seat driver compet championship
+548,Positive,2015-09-28 22:30:00,facebook,"determination,cyclingchampion",35,70,other,cycl world championship climber conquer challeng terrain symbol determin achiev odd
+549,Very Positive,2020-12-12 20:00:00,instagram,"heartwarming,hockeyfinalscomeback",22,45,canada,wit heartwarm comeback hockey final fan share tear joy team secur histor victori advers
+550,Negative,2019-11-02 18:45:00,twitter,"disappointment,soccerdefeats",40,80,other,seri defeat soccer team face disappoint struggl find silver line challeng season
+551,Negative,2018-07-10 21:15:00,instagram,"frustration,tennissetback",35,70,usa,tenni tournament highli anticip player experi setback leav fan shock question unforeseen turn event
+552,Neutral,2020-09-18 19:30:00,facebook,"reflection,boxingdefeat",30,60,uk,face defeat championship boxer reflect challeng vow return stronger determin next bout
+553,Negative,2017-05-15 22:00:00,twitter,"obstacle,cyclingfrustration",22,45,other,midst cycl race tire blowout lead frustrat cyclist valiantli tri overcom unexpect obstacl
+554,Neutral,2021-04-05 20:15:00,instagram,"sympathy,gymnasticsfall",28,55,other,gymnast unexpect fall routin spark wave sympathi audienc highlight vulner sport
+555,Negative,2016-08-20 18:30:00,facebook,"pressure,golfdefeat",18,35,usa,golf tournament miss crucial putt result defeat caus golfer reflect pressur highstak competit
+556,Positive,2019-02-12 19:45:00,twitter,"renewedeffort,basketballstruggles",22,45,canada,experienc seri loss basketbal season team grappl frustrat determin turn tide renew effort
+557,Negative,2015-06-28 20:00:00,instagram,"miscalculation,swimmingdisappointment",28,55,australia,despit meticul train swimmer face disappoint splitsecond miscalcul cost lead crucial race
+558,Negative,2022-01-08 21:30:00,facebook,"challenge,weightliftingfailure",35,70,other,weightlift fail attempt person record result frustrat highlight challeng natur push physic limit
+559,Very Negative,2018-12-15 20:15:00,twitter,"despair,owngoal",22,45,other,midst soccer match unexpect goal creat moment despair player teammat consol encourag
+560,Positive,2021-07-10 19:00:00,instagram,"tranquility,sunsetbeauty",40,80,canada,seren beauti sunset natur unfold canva color evok sens tranquil wonder
+561,Positive,2019-09-28 20:30:00,twitter,"adventure,roadtripmemories",35,70,usa,embark spontan road trip travel discov hidden gem creat memori cherish lifetim
+562,Neutral,2022-03-15 18:45:00,facebook,"solace,cafereflection",30,60,other,amidst bustl citi quiet caf becom sanctuari reflect cup coffe bring solac wander mind
+563,Positive,2017-11-05 21:15:00,instagram,"creativity,streetartvibes",22,45,other,explor vibrant street art cultur neighborhood mural tell stori infus citi creativ express
+564,Positive,2020-05-20 16:30:00,twitter,"breakthrough,scientificdiscovery",28,55,other,world scienc breakthrough discoveri unfold push boundari knowledg open new frontier explor
+565,Positive,2016-08-22 19:45:00,facebook,"harmony,orchestramelody",18,35,uk,connect melodi live orchestra music enthusiast experi symphoni reson deep within soul
+566,Positive,2023-04-10 17:15:00,instagram,"joyinbaking,homemadedelights",22,45,india,embrac aroma freshli bake bread home chef find joy art bake creat delici memori love one
+567,Neutral,2015-12-18 18:00:00,twitter,"envisioninghistory,museumtales",28,55,other,wander histor museum histori enthusiast becom immers tale past envis bygon era
+568,Positive,2021-10-08 20:30:00,facebook,"imagination,literaryescape",35,70,other,realm literatur captiv novel transport reader distant land weav tapestri imagin escap
+569,Positive,2019-03-22 21:45:00,instagram,"vibrancy,marketstories",22,45,australia,captur essenc bustl market photograph freez moment time frame tell uniqu vibrant stori
+570,Positive,2018-06-15 22:00:00,twitter,"mesmerizing,nightdanceperformance",40,80,usa,underneath citi light dancer express emot grace movement creat mesmer perform night sky
+571,Positive,2019-08-28 19:30:00,instagram,"culinaryadventure,streetfooddelights",35,70,other,heart bustl market street food connoisseur indulg culinari adventur savor divers flavor aroma
+572,Positive,2022-12-01 17:45:00,facebook,"wintermagic,snowylandscapes",30,60,canada,first snowflak descend winter enthusiast eagerli prepar season frosti delight anticip magic snowcov landscap
+573,Positive,2017-04-10 21:15:00,twitter,"thrillingjourney,mysterynovel",22,45,uk,amidst page captiv mysteri novel reader unravel clue secret experienc thrill journey suspens revel
+574,Positive,2020-05-15 18:30:00,instagram,"naturesbeauty,floraljoy",28,55,australia,surround vibrant color flower garden garden nurtur blossom find joy beauti natur everchang canva
+575,Positive,2016-09-22 20:00:00,facebook,"celestialwonder,stargazing",18,35,usa,astronomi observatori stargaz marvel vast cosmo contempl mysteri hidden within celesti expans
+576,Positive,2023-02-12 19:45:00,twitter,"creativeinspiration,coffeejourney",22,45,other,engulf aroma freshli brew coffe writer find inspir everi sip embark journey creativ prose
+577,Positive,2015-11-10 21:00:00,instagram,"runwaycreativity,fashioninnovation",28,55,other,realm fashion design unveil collect tell stori blend innov tradit runway creativ
+578,Neutral,2021-07-20 18:15:00,facebook,"oceansfreedom,surfingthrills",22,45,other,wave crash shore surfer embrac thrill ride ocean energi captur essenc freedom wave
+579,Very Negative,2019-04-18 20:30:00,twitter,"whispersofthepast,historicaltour",35,70,other,explor histor architectur ancient citi travel transport bygon era monument whisper tale past
+580,Positive,2023-05-20 19:45:00,twitter,"crushstruggles,avoidingeyecontact",15,30,usa,success avoid eye contact crush hallway mission accomplish teencrush stealthmod
+581,Negative,2023-05-21 21:00:00,instagram,"snackcrisis,teenlife",18,35,canada,ran snack movi marathon crisi level emerg movienightstruggl teenproblem
+582,Positive,2023-05-22 14:30:00,facebook,"selfiestruggle,teenconfessions",22,45,uk,spent hour choos perfect filter selfi struggl instagram aesthet real selfiequeen teenvib
+583,Negative,2023-05-23 16:45:00,twitter,"teenproblems,lostheadphones",20,40,usa,lost headphon vanish thin air headphonemysteri teenlif
+584,Neutral,2023-05-24 13:15:00,instagram,"studyingmemes,teenlife",25,50,canada,decid studi exam end make meme studi instead procrastin level expert procrastinationn teenconfess
+585,Neutral,2023-05-25 19:00:00,facebook,"weekendoops,teenfashion",20,40,usa,got dress day rememb saturday oop weekendvib teenstruggl
+586,Positive,2023-05-26 14:20:00,twitter,"teensuccess,projectmiracle",28,55,uk,surviv group project without drama miracl happen groupprojectsuccess teenachiev
+587,Negative,2023-05-27 21:15:00,instagram,"teenchef,cookingfail",22,45,canada,enter kitchen intent cook left bag chip cook overr anyway masterchefintrain teenhumor
+588,Neutral,2023-05-28 12:00:00,facebook,"classevent,teenexcitement",18,35,usa,stare clock class wait bell ring like excit event day classcountdown teenlif
+589,Positive,2023-05-29 23:30:00,twitter,"bookdiscoveries,teenreading",30,60,uk,discov new book seri spent whole night read need sleep anyway bookwormlif latenightread
+590,Positive,2023-05-30 20:45:00,instagram,"gameon,teengamer",22,45,usa,bought new video game play hour forgot eat ultim game session gamerlif nofoodgam
+591,Positive,2023-05-31 15:30:00,facebook,"bingewatchday,teenlife",35,70,canada,spent day bingewatch new seri product level zero lazyday tvseriesmarathon
+592,Positive,2023-06-01 18:00:00,twitter,"fashiongoals,teenstyle",20,40,usa,caught latest fashion trend plan shop spree fashionista trendyteen
+593,Negative,2023-06-02 14:30:00,instagram,"instrumentlearning,teenmusic",28,55,uk,decid learn new instrument day one still tri figur hold musicnovic learningjourney
+594,Positive,2023-06-03 21:15:00,facebook,"musictherapy,teenplaylist",22,45,canada,spent hour creat perfect playlist everi mood music therapi playlistmak teenmusiclov
+595,Positive,2023-06-04 19:30:00,twitter,"cookingsuccess,teencook",25,50,usa,success cook gourmet meal famili chef skill unlock chefmod teenchef
+596,Positive,2023-06-05 10:00:00,instagram,"getawaygoals,teentravel",18,35,uk,spontan book weekend getaway adventur await travelbug weekendescap
+597,Positive,2023-06-06 22:30:00,facebook,"musicmagic,teenconcert",28,55,canada,attend concert danc night away music heartbeat life concertvib danceallnight
+598,Positive,2023-06-07 12:45:00,twitter,"childhoodmemories,teencartoons",22,45,usa,rediscov childhood cartoon nostalgiafil marathon cartoonnostalgia teenmemori
+599,Positive,2023-06-08 16:00:00,instagram,"diygoals,teencreative",35,70,uk,embark diy home decor project let hope turn better last time diyadventur teenhomedecor
+600,Neutral,2023-06-09 14:00:00,facebook,"culturalday,teencuriosity",20,40,usa,spent afternoon museum pretend cultur art enthusiast make museumday teenartlov
+601,Neutral,2023-06-10 17:30:00,twitter,"bloggingjourney,teenthoughts",30,60,canada,start blog random thought muse blog new diari bloggerlif teenblogg
+602,Positive,2023-06-11 15:30:00,instagram,"quietmoments,bookishescape",35,70,usa,relish peac afternoon classic novel quiet moment best moment booklov peacefulafternoon
+603,Positive,2023-06-12 18:00:00,twitter,"aginggracefully,memories",28,55,uk,reflect lifetim memori wrinkl tell stori embrac beauti age lifereflect beautyinag
+604,Neutral,2023-06-13 14:45:00,facebook,"artdiscovery,seniorartist",22,45,canada,explor world digit art never late discov new passion digitalartistri latebloom
+605,Positive,2023-06-14 19:30:00,instagram,"happinessinfood,seniorlife",25,50,usa,savor flavor homecook meal simpl joy heart happi homecook simplejoy
+606,Neutral,2023-06-15 12:15:00,twitter,"mindenrichment,seniorlearning",30,60,uk,embark journey learn new languag mind stay young everi new word languagelearn nevertool
+607,Positive,2023-06-16 21:45:00,facebook,"musiclover,seniorconcert",18,35,canada,attend classic music concert feel timeless melodi reson music transcend gener classicalmus timelessmelodi
+608,Positive,2023-06-17 15:00:00,instagram,"naturecapture,seniormoments",35,70,usa,captur beauti natur photographi everi snapshot treasur naturephotographi seniorphotograph
+609,Positive,2023-06-18 11:30:00,twitter,"friendshipgoals,seniorbonding",28,55,uk,reconnect old friend cup tea friendship true essenc companionship oldfriend companionship
+610,Positive,2023-06-19 16:30:00,facebook,"cherishedplaces,seniortravel",22,45,canada,embark road trip revisit cherish place past nostalgia ultim travel companion roadtrip nostalgiatour
+611,Positive,2023-06-20 14:20:00,instagram,"musicharmony,seniorvoices",20,40,usa,join commun choir harmon fellow voic music creat bond withstand time communitychoir harmonyinag
+612,Positive,2023-06-21 19:00:00,twitter,"mindfulliving,seniorcalm",18,35,uk,explor art medit find tranquil still mind meditationjourney tranquilmind
+613,Positive,2023-06-22 13:45:00,facebook,"naturewonders,seniorgarden",25,50,usa,take stroll garden appreci beauti bloom flower natur wonder never ceas gardenwalk floralbeauti
+614,Positive,2023-06-23 18:45:00,instagram,"lifewelllived,seniorwine",28,55,uk,sip favorit vintag wine sip tell stori year gone cheer life wellliv winelov vintagech
+615,Positive,2023-06-24 16:15:00,twitter,"creativityatanyage,seniorcreativity",22,45,canada,particip commun art class unleash creativ golden year art age limit artclass seniorartistri
+616,Positive,2023-06-25 20:30:00,facebook,"lifetimeexperiences,seniormemoir",35,70,usa,embark journey write memoir document lifetim experi everi stori matter memoirwrit seniorstori
+617,Neutral,2023-06-26 14:00:00,instagram,"lifetimeadventure,seniorcuriosity",30,60,uk,attend lectur histori alway fascin lesson past learn lifelong adventur historylectur seniorlearn
+618,Positive,2023-06-27 17:45:00,twitter,"kitchenmemories,seniorculinary",20,40,usa,rediscov joy cook tradit famili recip kitchen place cherish memori familyrecip seniorcook
+619,Positive,2023-06-28 22:15:00,facebook,"outdoorbeauty,seniorclicks",18,35,uk,join natur photographi club captur beauti great outdoor everi click connect natur naturephotographi seniorphotograph
+620,Positive,2023-06-29 16:30:00,instagram,"timelesstunes,seniorjazz",25,50,usa,attend jazz concert sway rhythm timeless tune music constant companion golden year jazzconcert seniormus
+621,Positive,2023-06-30 19:30:00,twitter,"soulfulwriting,seniorreflections",28,55,uk,join write group pen thought reflect write journey depth soul writinggroup seniorwrit
+622,Positive,2023-07-01 14:00:00,instagram,"discovernewplaces,seniortravel",30,60,usa,embark solo travel adventur discov beauti new place pace solotravel seniorexplor
+623,Positive,2023-07-02 18:30:00,facebook,"roadtripdownmemorylane,seniorcars",22,45,uk,attend vintag car show reminisc classic rule road nostalgia everi rev vintagecar classicrid
+624,Positive,2023-07-03 12:45:00,twitter,"gardenfriends,seniorgreenthumb",28,55,canada,start commun garden grow plant friendship green thumb unit communitygarden seniorgarden
+625,Positive,2023-07-04 17:00:00,instagram,"heartwarmingmoments,seniorfamily",35,70,usa,host famili dinner laughter echo louder clink utensil famili heart happi familydinn seniorhost
+626,Positive,2023-07-05 20:15:00,twitter,"dancelife,seniormoves",18,35,uk,enrol danc class senior move rhythm life age number danc floor danceclass seniordanc
+627,Positive,2023-07-06 14:30:00,facebook,"creativeexpressions,seniorart",25,50,usa,visit art galleri appreci brushstrok tell tale creativ art etern companion artgalleri seniorartlov
+628,Positive,2023-07-07 19:45:00,instagram,"bookishtalks,seniorbookworms",22,45,uk,start book club senior discuss live charact novel bookclub seniorread
+629,Positive,2023-07-08 16:00:00,twitter,"friendshipsunshine,seniormemories",30,60,canada,host picnic park bask warmth friendship sunshin simpl joy timeless memori parkpicn seniorjoy
+630,Positive,2023-07-09 22:30:00,facebook,"stagepassion,seniortheater",20,40,usa,particip local theater product prove stage belong everi age theaterproduct senioractor
+631,Positive,2023-07-10 14:20:00,instagram,"naturetrailblazer,seniorexplorer",28,55,uk,embark hike adventur conquer trail relish beauti natur age number mountaintop hikingadventur seniorhik
+632,Positive,2023-07-11 18:45:00,twitter,"lifeinpictures,seniorexhibition",22,45,canada,host photographi exhibit featur snapshot life wellliv everi photo stori tell photographyexhibit seniorphotograph
+633,Positive,2023-07-12 13:45:00,facebook,"openroadadventures,seniorcycling",25,50,usa,join senior cycl club feel wind hair freedom open road cyclingclub seniorcyclist
+634,Positive,2023-07-13 20:00:00,instagram,"agedtoperfection,seniorcheers",35,70,uk,attend wine tast event savor rich flavor age like fine wine cheer golden year winetast seniorwinelov
+635,Positive,2023-07-14 16:15:00,twitter,"gracefulmoves,seniordance",20,40,usa,start learn ballroom danc glide grace across danc floor ageless eleg everi step ballroomdanc seniordanc
+636,Positive,2023-07-15 19:30:00,facebook,"communityart,seniorcreativity",28,55,canada,organ commun paint event turn blank canvas masterpiec share creativ paintingev seniorartist
+637,Positive,2023-07-16 14:00:00,instagram,"friendshipadventures,seniornostalgia",30,60,usa,host memori lane even old friend reminisc adventur shape live memorylan seniorreminisc
+638,Neutral,2023-07-17 22:15:00,twitter,"celestialwonders,seniorastronomy",18,35,uk,join senior astronomi club stargaz find wonder vast cosmo astronomyclub seniorstargaz
+639,Positive,2023-07-18 16:30:00,facebook,"timelesstunes,seniorjazz",25,50,usa,attend local jazz festiv tap toe tune stood test time music lifelong love affair jazzfestiv seniormusiclov
+640,Positive,2023-07-19 19:45:00,instagram,"lifelessons,seniorblog",22,45,uk,start blog share wisdom gain year prove everi day chanc learn grow seniorwisdom blog
+641,Positive,2023-07-20 17:00:00,twitter,"runforacause,seniorsupport",30,60,canada,particip chariti run prove age barrier support meaning caus charityrun seniorrunn
+642,Neutral,2023-08-01 13:30:00,instagram,"physicssurvivor,highschooladventures",20,40,usa,surviv challeng physic exam equat wont defeat
+643,Positive,2023-08-02 14:45:00,twitter,"codingadventure,highschoolcoderlife",25,50,uk,explor world code debug adventur codingjourney highschoolcod
+644,Positive,2023-08-03 12:15:00,facebook,"debatewarrior,highschooldebater",18,35,canada,join school debat team word weapon im readi battl
+645,Positive,2023-08-04 16:30:00,instagram,"photographyclub,highschoolphotographer",22,45,usa,start photographi club school captur moment one snapshot time
+646,Positive,2023-08-05 19:45:00,twitter,"promdreams,highschoolfairytale",30,60,canada,daydream upcom prom dress danc fairytal make
+647,Positive,2023-08-06 14:00:00,facebook,"outdoorclassroom,highschoolexplorer",28,55,usa,convinc teacher class outdoor learn equat side fresh air
+648,Negative,2023-08-07 19:45:00,instagram,"artisticmishaps,highschoolart",22,45,uk,accident spill paint art class abstract art right artclassadventur highschoolartist
+649,Positive,2023-08-08 16:00:00,twitter,"skaterlife,highschoolskater",30,60,canada,tri master perfect kickflip skateboard skate weekend like pro
+650,Positive,2023-08-09 22:30:00,facebook,"kpopfangirl,highschoolmusic",20,40,usa,bond friend latest kpop sensat fangirl finest
+651,Positive,2023-08-10 14:20:00,instagram,"chemistrywizard,highschoolscientist",28,55,uk,spent hour perfect chemistri experi mix potion like wizard
+652,Positive,2023-08-11 18:45:00,twitter,"birthdayparty,highschoolcelebration",22,45,canada,success organ surpris birthday parti friend parti plan expert mode achiev
+653,Positive,2023-08-12 13:45:00,facebook,"dramaclubstar,highschoolactor",25,50,usa,join drama club unleash inner actor light camera action
+654,Positive,2023-08-13 20:00:00,instagram,"fantasybooknerd,highschoolreader",35,70,uk,got hand latest fantasi novel dive realm magic adventur
+655,Positive,2023-08-14 16:15:00,twitter,"doodlemaster,highschoolart",20,40,usa,master art perfect doodl bore class doodl
+656,Positive,2023-08-15 19:30:00,facebook,"handstandchallenge,highschoolathlete",28,55,canada,attempt break school record longest handstand wish luck
+657,Very Negative,2023-08-16 14:00:00,instagram,"snacksmuggler,highschoolsnacks",30,60,usa,sneak snack class like pro art snacksmuggl sacr skill
+658,Positive,2023-08-17 22:15:00,twitter,"sleepoverfun,highschoolmemories",18,35,uk,host sleepov friend weekend prepar night laughter memori
+659,Negative,2023-08-18 16:30:00,facebook,"dancefail,highschooltiktok",25,50,usa,spent hour tiktok danc realiz two left feet danc fail unleash
+660,Negative,2023-08-19 19:45:00,instagram,"socialmediablunder,highschoolawkward",22,45,uk,accident like crush old photo stalk profil awkward level maximum
+661,Negative,2023-08-20 17:00:00,twitter,"crushfail,highschoolembarrassment",30,60,canada,tri impress crush smooth convers end spill drink smooth level nonexist
+662,Positive,2023-08-21 15:45:00,instagram,"paperplaneexpert,highschoolart",15,30,usa,master art creat paper airplan lectur paper plane soar new height
+663,Positive,2023-08-22 12:30:00,facebook,"textbookjuggling,highschoolskills",22,40,canada,tri set new trend juggl textbook class academ juggl uniqu skill
+664,Very Negative,2023-08-23 16:45:00,twitter,"snackninja,highschoolsnacks",28,55,usa,hide snack stash backpack emerg crave snack ninja mode activ
+665,Positive,2023-08-24 18:20:00,instagram,"surpriseadventure,highschoolfun",20,38,uk,plan surpris scaveng hunt friend anticip thrill excit
+666,Positive,2023-08-25 14:15:00,facebook,"raindance,highschooljoy",25,50,canada,danc rain celebr end exam rain danc unexpectedli refresh
+667,Negative,2023-08-26 17:30:00,twitter,"textingfail,highschoolawkward",18,35,usa,accident sent text meant friend class group chat text fail oop moment
+668,Negative,2023-08-27 20:45:00,instagram,"magicfail,highschoolmagic",22,45,uk,tri magic trick impress classmat magic fail rabbit go
+669,Positive,2023-08-28 16:00:00,twitter,"origamimaster,highschoolart",18,36,usa,perfect art creat origami dull lectur origami masteri
+670,Positive,2023-08-29 13:45:00,instagram,"hackysackchallenge,highschoolathlete",26,48,canada,attempt set new record consecut hacki sack kick hacki sack skill unleash
+671,Positive,2023-08-30 17:30:00,facebook,"friendshipgoals,highschoolmemories",20,40,usa,creat secret handshak friend friendship level expert
+672,Positive,2023-08-31 20:15:00,twitter,"burgerquest,highschoolfoodie",24,42,uk,embark mission find best burger joint town burger connoisseur report duti
+673,Positive,2023-09-01 14:45:00,instagram,"standupcomedy,highschooltalent",21,39,canada,practic standup comedi routin upcom talent show comedi gig make
+674,Negative,2023-09-02 18:30:00,facebook,"loveletterfail,highschoolawkward",17,33,usa,accident sent love letter wrong person love note fail maximum embarrass
+675,Positive,2023-09-03 22:00:00,twitter,"sciencegeek,highschoolexperiments",23,44,uk,attempt impress teacher elabor scienc experi scienc geek mode activ
+676,Positive,2023-09-04 15:15:00,instagram,"friendshipbracelets,highschoolcrafts",19,37,usa,craft intric friendship bracelet whole squad friendship level expert weaver
+677,Positive,2023-09-05 12:30:00,twitter,"cartwheelchallenge,highschoolathlete",27,52,canada,attempt beat record consecut cartwheel cartwheel challeng underway
+678,Positive,2023-09-06 16:45:00,facebook,"movienight,highschoolmemories",22,43,uk,organ movi marathon friend popcorn cinemat adventur await
+679,Positive,2023-09-07 18:20:00,instagram,"hairexperiment,highschoolstyle",20,39,usa,experi new hair color bold chang bold semest
+680,Positive,2023-09-08 14:15:00,facebook,"timecapsule,highschoolnostalgia",26,48,canada,build time capsul captur memori futur timetravel emot
+681,Negative,2023-09-09 17:30:00,twitter,"firstdayoops,highschoolembarrassment",16,32,usa,accident walk wrong classroom first day classroom mixup awkward start
+682,Positive,2023-09-10 20:45:00,instagram,"healthyliving,highschoolwellness",23,42,uk,tri new smoothi recip healthi start week smoothi enthusiast level
+683,Negative,2023-09-11 15:45:00,twitter,"schoolchallenges,highschoolstruggles",15,28,usa,reflect challeng school year feel bit overwhelm assign
+684,Very Negative,2023-09-12 12:30:00,instagram,"onlinehate,highschoolreality",18,36,canada,encount meanspirit comment onlin deal onlin hate never easi
+685,Negative,2023-09-13 16:45:00,facebook,"badday,highschoolblues",20,40,uk,bad day school everyth seem go wrong
+686,Negative,2023-09-14 18:20:00,twitter,"disappointment,highschoolsports",17,34,usa,feel make sport team disappoint linger
+687,Very Negative,2023-09-15 14:15:00,instagram,"cafeteriadrama,highschooltension",21,41,canada,wit heat argument cafeteria unpleas atmospher lunch
+688,Negative,2023-09-16 17:30:00,facebook,"academicfrustration,highschoolstress",19,38,uk,receiv notsogreat grade major project academ frustrat set
+689,Negative,2023-09-17 20:45:00,twitter,"lifechallenges,highschoolstruggles",22,44,usa,deal person setback sometim life throw unexpect challeng
+690,Negative,2023-09-18 22:00:00,instagram,"lonelynights,highschoolemotions",16,31,canada,feel lone saturday night sometim solitud hit harder expect
+691,Very Negative,2023-09-19 15:15:00,facebook,"stopcyberbullying,highschoolreality",14,27,uk,experienc cyberbulli hate messag onlin dishearten
+692,Negative,2023-09-20 12:30:00,twitter,"badluck,highschoolweather",18,35,usa,caught torrenti rainstorm without umbrella today weather bad luck
+693,Negative,2023-09-21 16:45:00,instagram,"missedchances,highschoolregret",20,39,canada,miss import event due unforeseen circumst day fill sad
+694,Very Negative,2023-09-22 18:20:00,facebook,"rumormills,highschooldrama",23,46,uk,deal unfound rumor circul person life rumor hurt
+695,Negative,2023-09-23 14:15:00,twitter,"badluckday,highschoolstruggles",25,50,usa,got flat tire way import meet talk seri bad event
+696,Negative,2023-09-24 17:30:00,instagram,"sayinggoodbye,highschoolemotions",21,42,canada,feel sens empti close friend move away farewel alway sad
+697,Negative,2023-09-25 20:45:00,facebook,"collegedreams,highschooljourney",19,37,uk,face reject dream colleg dishearten determin explor path
+698,Very Negative,2023-09-26 14:15:00,twitter,"onlinegaming,highschoolgamer",16,32,usa,encount onlin toxic game session hate comment ruin fun
+699,Negative,2023-09-27 17:30:00,instagram,"badhairday,highschoolconfidence",18,36,canada,bad hair day feel selfconsci bad hair day affect confid
+700,Negative,2023-09-28 22:00:00,facebook,"projectstruggles,highschoolhardships",21,41,uk,feel sens despair major project failur hard work didnt pay time
+701,Very Negative,2023-09-29 15:45:00,twitter,"onlineopinions,highschoolcriticism",24,48,usa,experienc hate comment express person opinion onlin neg prevail
+702,Negative,2023-09-30 18:20:00,instagram,"techissues,highschooltech",22,43,canada,string bad luck constant technolog malfunct tech troubl galor
+703,Negative,2023-10-01 14:15:00,facebook,"missedmoments,highschoolregret",20,39,uk,miss longanticip event due unexpect circumst day fill sad
+704,Neutral,2023-10-02 16:45:00,instagram,"studystrategies,highschoolexams",23,42,usa,tri new studi techniqu upcom exam explor differ learn strategi
+705,Neutral,2023-10-03 12:30:00,twitter,"environmentalefforts,highschoolcommunity",26,50,canada,organ commun cleanup event cleaner neighborhood promot environment awar
+706,Neutral,2023-10-04 18:20:00,facebook,"bookclub,highschoolreads",19,38,uk,share favorit book recommend classmat build mini book club
+707,Neutral,2023-10-05 14:15:00,instagram,"bakingadventures,highschoolbakes",21,43,usa,experi new recip school bake sale bake adventur kitchen
+708,Neutral,2023-10-06 17:30:00,twitter,"teamwork,highschoolprojects",18,36,canada,collabor school project peer teamwork make dream work
+709,Neutral,2023-10-07 20:45:00,instagram,"schoolclubs,highschoolinterests",22,45,uk,attend school club meet explor new interest dabbl extracurricular activ
+710,Neutral,2023-10-08 15:15:00,facebook,"careerdevelopment,highschooljobs",24,48,usa,explor new parttim job opportun gain work experi career develop progress
+711,Neutral,2023-10-09 22:00:00,twitter,"schoolevents,highschoolconnectivity",20,40,canada,attend school assembl stay inform upcom event announc stay connect school activ
+712,Neutral,2023-10-10 14:15:00,instagram,"photographyjourney,highschoolhobbies",25,49,uk,explor new hobbi photographi free time captur moment len
+713,Neutral,2023-10-11 16:45:00,facebook,"sciencefair,highschoolscience",19,37,usa,particip scienc fair showcas uniqu experi share knowledg peer
+714,Neutral,2023-10-12 18:20:00,twitter,"efficiencygoals,highschoolskills",23,44,canada,attend workshop time manag enhanc organiz skill strive effici
+715,Neutral,2023-10-13 12:30:00,instagram,"communityservice,highschoolvolunteer",20,39,uk,volunt local chariti event give back commun contribut social caus
+716,Neutral,2023-10-14 17:30:00,facebook,"teamspirit,highschoolprojects",18,35,usa,collabor group project promot teamwork share respons group effort action
+717,Neutral,2023-10-15 20:45:00,twitter,"debateskills,highschoolintellect",22,43,canada,particip debat club enhanc critic think commun skill intellectu engag progress
+718,Positive,2023-10-16 15:45:00,instagram,"surpriseparty,highschoolcelebration",27,52,uk,celebr friend birthday surpris parti joy moment laughter around
+719,Positive,2023-10-17 12:30:00,twitter,"codingtriumph,highschooltech",24,48,usa,success complet challeng code project excit overcom code hurdl
+720,Positive,2023-10-18 16:45:00,facebook,"talentshow,highschoolentertainment",19,38,canada,attend school talent show support classmat applaud divers talent display
+721,Positive,2023-10-19 18:20:00,instagram,"natureadventures,highschoolfriends",21,42,uk,explor new hike trail friend weekend natur laughter good vibe
+722,Positive,2023-10-20 14:15:00,twitter,"sportstriumph,highschoolathletics",26,50,usa,win friendli sport competit rival school victori celebr full swing
+723,Positive,2023-10-21 17:30:00,facebook,"globalfriendship,highschoolcorrespondence",23,45,canada,receiv heartfelt letter pen pal anoth countri connect across globe
+724,Positive,2023-10-22 20:45:00,instagram,"artcollaboration,highschoolcreativity",22,43,uk,creat beauti mural fellow art enthusiast power collabor creativ
+725,Positive,2015-11-10 16:45:00,instagram,"artisticexpression,highschoolcreativity",23,44,usa,particip schoolwid art exhibit wit creativ spread posit vibe
+726,Positive,2016-09-14 12:30:00,twitter,"athleticachievement,highschoolsports",26,51,canada,achiev person best track field competit thrill victori selfimprov
+727,Positive,2017-08-18 18:20:00,facebook,"sciencefairwinner,highschoolscience",20,39,uk,collabor scienc project receiv recognit region fair scienc triumph smile
+728,Positive,2018-06-22 14:15:00,instagram,"surprisecelebration,highschoolfriendship",25,48,usa,attend surpris birthday parti organ friend surround love laughter good compani
+729,Positive,2019-04-05 17:30:00,twitter,"communitygiving,highschoolphilanthropy",22,42,canada,success fundrais school chariti initi joy give back commun
+730,Positive,2020-02-29 20:45:00,facebook,"culturalcelebration,highschoolunity",21,43,uk,particip multicultur festiv celebr divers music danc delici food
+731,Positive,2020-11-15 15:15:00,instagram,"virtualentertainment,highschoolpositivity",24,47,usa,organ virtual talent show challeng time bring smile classmat face
